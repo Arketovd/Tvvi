@@ -1,0 +1,941 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="https://i.ibb.co/xt1P0VPb/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",GLOBO TV BAHIA FHD
+http://oruk.online/live/039345276/199281357/627c8c43-da37-481c-9ecc-7243c77af60a.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",GLOBO TV BAHIA HD
+http://oruk.online/live/039345276/199281357/7b722d66-29c1-4f19-90b8-1141abc39f1f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV NORDESTE FHD" tvg-logo="https://i.ibb.co/xt1P0VPb/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",GLOBO TV NORDESTE FHD
+http://oruk.online/live/039345276/199281357/ba0c11f1-c677-4da0-a15f-0db205119148.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV NORDESTE HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",GLOBO TV NORDESTE HD
+http://oruk.online/live/039345276/199281357/41174779-27f4-47bf-9204-7bd50dbf3001.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Nordeste FHD" tvg-logo="https://share.google/k4iXe7SQWEV4y9c1e" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo Nordeste FHD
+http://oruk.online/live/039345276/199281357/6760e72b-1231-4264-8d3d-0b68c12a1b8b.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Nordeste HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo Nordeste HD
+http://oruk.online/live/039345276/199281357/b3c3274b-a009-438d-a2b9-b56fc011bc6e.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Nordeste SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo Nordeste SD
+http://oruk.online/live/039345276/199281357/e71d96e0-cbb0-43a9-948f-c705f39e925d.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Rede Bahia FHD" tvg-logo="https://i.ibb.co/xt1P0VPb/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo Rede Bahia FHD
+http://oruk.online/live/039345276/199281357/4ab0d5fa-dcac-47cf-ba48-72471577b9a5.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Rede Bahia HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo Rede Bahia HD
+http://oruk.online/live/039345276/199281357/d9f18d93-d271-4424-a5f2-3fc3840af413.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Rede Bahia SD" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo Rede Bahia SD
+http://oruk.online/live/039345276/199281357/218ae131-60cd-46f8-833d-55c3949a424e.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://i.ibb.co/s2TP3wM/band-sports-4.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BandSports FHD
+http://oruk.online/live/039345276/199281357/75e50b46-2a37-4e51-881b-34f792420931.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://i.ibb.co/NV6KzJR/band-sports-5.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BandSports FHD [H265]
+http://oruk.online/live/039345276/199281357/f81c94ca-7bab-4c05-8353-a2528418b29e.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://i.ibb.co/ygrpByq/band-sports-2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BandSports HD
+http://oruk.online/live/039345276/199281357/2aef614a-0487-498e-86fb-f17d8919a1d2.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://i.ibb.co/gt3tjHL/band-sports-3.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BandSports SD
+http://oruk.online/live/039345276/199281357/ee95131e-5e72-428a-ab09-196dbc9aa761.m3u
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://i.ibb.co/C70xXjd/combate-2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Combate FHD
+http://oruk.online/live/039345276/199281357/539103b8-a34f-4e52-a9f7-bcd556dde753.m3u
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD [H265]" tvg-logo="https://i.ibb.co/C70xXjd/combate-2.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Combate FHD [H265]
+http://oruk.online/live/039345276/199281357/14de024c-0657-4237-8567-1b22c9df13f6.m3u
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://i.ibb.co/pfZkBNQ/combate-4.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Combate HD
+http://oruk.online/live/039345276/199281357/8b9df7f4-5464-4e75-b0c5-1e1d5fec9e85.m3u
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://i.ibb.co/qFmNcQh/combate-3.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Combate SD
+http://oruk.online/live/039345276/199281357/b5a4b357-c4ad-4074-b31a-d8618a33ceef.m3u
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://i.ibb.co/mT8kBPd/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo News FHD
+http://oruk.online/live/039345276/199281357/ad986505-31fb-445d-a49c-8e3f38dc8d6e.m3u
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://i.ibb.co/mT8kBPd/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo News FHD [H265]
+http://oruk.online/live/039345276/199281357/f4928bcf-e048-4130-8093-0ca98c0d374a.m3u
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://i.ibb.co/SRCYV09/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo News HD
+http://oruk.online/live/039345276/199281357/78b3f296-9f8a-4255-bbec-74fc3478c6d6.m3u
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://i.ibb.co/vDbCCtz/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo News SD
+http://oruk.online/live/039345276/199281357/06968d45-1e78-4d1e-84ab-a1c20862313a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes FHD
+http://oruk.online/live/039345276/199281357/6cfb7300-2e94-4328-92f3-f168f7b6c84f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes FHD [H265]
+http://oruk.online/live/039345276/199281357/ee44b11a-1ce1-4478-bd08-f613c9de9109.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes HD
+http://oruk.online/live/039345276/199281357/9bf5f1f1-84f5-4371-83ac-61b714356ba1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes SD
+http://oruk.online/live/039345276/199281357/d6ed91e7-0be0-4577-a5cc-cfa012acd2a3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 FHD
+http://oruk.online/live/039345276/199281357/bea55714-7d18-444f-92d1-08b0022f0dbf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 FHD [H265]
+http://oruk.online/live/039345276/199281357/e987315d-19c8-46aa-857d-86b4aa025e81.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 HD
+http://oruk.online/live/039345276/199281357/8ed5208d-7ec2-4c7b-a6e2-88e1b8db1e58.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 SD
+http://oruk.online/live/039345276/199281357/0148447d-e8af-4520-b2bf-1a084fab6343.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 FHD
+http://oruk.online/live/039345276/199281357/eb0c1cac-7230-4380-83c0-e6bcb3ab30cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 FHD [H265]
+http://oruk.online/live/039345276/199281357/7f2803be-4eef-4331-ac88-904e0a0a59c2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 HD
+http://oruk.online/live/039345276/199281357/5648b918-58ee-48a0-8625-968e199121bd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 SD
+http://oruk.online/live/039345276/199281357/79b17247-9c41-4fe8-87af-7e0030600a18.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 FHD
+http://oruk.online/live/039345276/199281357/8f9efbc2-5ee3-4297-b042-15b16b969d22.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 FHD [H265]
+http://oruk.online/live/039345276/199281357/857dedc0-8883-4e2b-8807-ecef8bbb3982.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 HD
+http://oruk.online/live/039345276/199281357/cb867162-d5e1-43f0-aa2f-78613dd7f684.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 SD
+http://oruk.online/live/039345276/199281357/118e848a-c58c-4e96-9db9-7439c74266f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 5 FHD
+http://oruk.online/live/039345276/199281357/7e042751-583b-42a7-bac2-8e60acceedf7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 5 FHD [H265]
+http://oruk.online/live/039345276/199281357/bbce09d9-4cb5-4f4e-911e-5b0ebf869683.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 5 HD
+http://oruk.online/live/039345276/199281357/dd357e34-0ed7-4e72-bc56-9083e4c94d2e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 5 SD
+http://oruk.online/live/039345276/199281357/0e8afedf-d2f6-4349-b0b6-47376c0f9109.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 6 FHD
+http://oruk.online/live/039345276/199281357/f3b91bca-afa8-46f6-82ab-e3f8070f15e0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 6 FHD [H265]
+http://oruk.online/live/039345276/199281357/6d60f87f-4740-4e66-b8fe-3eca9ac865aa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 6 HD
+http://oruk.online/live/039345276/199281357/750388f4-fb15-4839-9181-62cb32f8a31c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD ²" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 6 SD ²
+http://oruk.online/live/039345276/199281357/7f138b84-b945-4250-8899-47e939990851.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 7 FHD
+http://oruk.online/live/039345276/199281357/b1ce319e-8d27-454c-bda1-0e4b4ec2ff3e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 7 FHD [H265]
+http://oruk.online/live/039345276/199281357/728939fc-1802-4420-9983-ddb6e6f8047f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 7 HD
+http://oruk.online/live/039345276/199281357/e5c26de7-3ac5-424f-a691-77f1fe361b04.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 7 SD
+http://oruk.online/live/039345276/199281357/8c6c7d4d-4319-489f-9d06-a117678d9fce.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://i.ibb.co/Hn9hrw5/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 2 FHD [H265]
+http://oruk.online/live/039345276/199281357/b8164f24-ca1f-45db-a3bd-f9a3ba996c44.m3u
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://i.ibb.co/6tMGMTR/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 2 FHD
+http://oruk.online/live/039345276/199281357/9784a192-6047-4add-80ed-bbe09c18ab30.m3u
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.ibb.co/sRB0LXw/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 2 HD
+http://oruk.online/live/039345276/199281357/5c7e9cae-8ba1-423e-9d5b-8f9085b1a4be.m3u
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.ibb.co/Gn6YGzP/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 2 SD
+http://oruk.online/live/039345276/199281357/eee7b3dc-668d-4ae8-9ce1-19e0ae3847de.m3u
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://i.ibb.co/2gsNmjX/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 3 FHD
+http://oruk.online/live/039345276/199281357/3c496db3-9bbf-49d4-bce8-d1834527d641.m3u
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://i.ibb.co/TM93gTH/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 3 HD
+http://oruk.online/live/039345276/199281357/d56a3584-d68a-40d6-a949-150257507592.m3u
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.ibb.co/jTZZKbK/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 3 SD
+http://oruk.online/live/039345276/199281357/d8b5d9e8-ff28-4770-af18-a4b5277092b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD H265" tvg-logo="https://i.ibb.co/gJTLw1H/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV FHD H265
+http://oruk.online/live/039345276/199281357/7850abfc-6857-4bff-9a24-fe789d8b7c35.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="https://i.ibb.co/1q5q5Pd/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV FHD
+http://oruk.online/live/039345276/199281357/2d07369d-e1e7-45ea-a60d-6a4e59dd2da7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://i.ibb.co/WpmxRdK/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV HD
+http://oruk.online/live/039345276/199281357/ab26657d-5cc7-40ad-a55b-1cddcf56a201.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="https://i.ibb.co/WGTBkX0/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV SD
+http://oruk.online/live/039345276/199281357/9019fc76-a520-4ceb-a5ec-8acbf910e503.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 3)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BRASILEIRÃO SERIE C (JOGO 3)
+http://oruk.online/live/039345276/199281357/ffdd584a-8a7f-4e1b-bf4d-74f6976c84e4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 2)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BRASILEIRÃO SERIE C (JOGO 2)
+http://oruk.online/live/039345276/199281357/66ba78a0-1123-4b28-adbe-5fc14315bc02.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 1)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BRASILEIRÃO SERIE C (JOGO 1)
+http://oruk.online/live/039345276/199281357/73317aaa-cf0f-435e-aa0d-6b9f1f16fba3.m3u
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo 4K" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globo 4K
+http://oruk.online/live/039345276/199281357/edc9bfda-2cb1-425a-a032-1ef8214a19fb.m3u
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://lh3.googleusercontent.com/-Zb5Jg9iGj-4/YG2obFDviQI/AAAAAAAAKKs/Ycy5WeWqmocD5ilbECPvPbuYwkmEd3nvgCLcBGAsYHQ/SPORTV%2B4K.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",SporTV 4K
+http://oruk.online/live/039345276/199281357/7d58d07d-9fae-4302-b262-e98fb45d9637.m3u
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="https://i.ibb.co/xMFbB83/premierclubes.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes 4K
+http://oruk.online/live/039345276/199281357/7d14fbc9-dc5a-4619-bc54-67e4bbec524e.m3u
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://i.ibb.co/ww9S09p/combate.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Combate 4K
+http://oruk.online/live/039345276/199281357/b64f4313-584f-440f-bfb3-f8e766039065.m3u
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD TV BAHIA HD" tvg-logo="https://i.ibb.co/bNbC6Rw/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",RECORD TV BAHIA HD
+http://oruk.online/live/039345276/199281357/12681373-c95f-4053-8e21-8a1120e09c91.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.ibb.co/27ttRjw/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BAND SPORTS SD
+http://oruk.online/live/039345276/199281357/bbb90589-aceb-4cde-994b-9456fd87e4e8.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND TV SPORTS HD" tvg-logo="https://i.ibb.co/RD2DkLz/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BAND TV SPORTS HD
+http://oruk.online/live/039345276/199281357/8d2c541f-3244-4f5e-ac8e-2816728752c2.m3u
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND TV SPORTS FHD" tvg-logo="https://i.ibb.co/Jpnc0yT/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",BAND TV SPORTS FHD
+http://oruk.online/live/039345276/199281357/45c3b6d1-e8ed-46d6-a46c-f8a51f8bb901.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 01" tvg-logo="https://i.imgur.com/mQC6j1N.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",CAZÉ TV 01
+http://oruk.online/live/039345276/199281357/3d8433a0-e043-42d6-8c1e-7b1062810246.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",UFC FIGHT PASS
+http://oruk.online/live/039345276/199281357/72285b8a-13ca-45d7-b1cd-43aaffae904a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",UFC FIGHT PASS 2
+http://oruk.online/live/039345276/199281357/521d6add-3d46-4bd1-8091-38bc367f9ac4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhpkHjz8Y2Mes0_ffpiNxZ6zz8yxinYYP-_nOrjGh4mH6eND50LWaMD2QfPp6i3OjZAtreh-UDVesBFfngZWvxkppaesWX1KaKi8PcTYsrBfp_cNxbHLmX8LKOU8rLQ_nHgP5p2x8LsqMMBV3-HViiv-oHoGG6b9DscQVszGcfIH8DClh6e74gHmb2-" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",UFC FIGHT PASS 3
+http://oruk.online/live/039345276/199281357/fc95161a-ad17-4282-9c05-8168d87a527a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 02" tvg-logo="https://i.imgur.com/mQC6j1N.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",CAZÉ TV 02
+http://oruk.online/live/039345276/199281357/5a2750a6-6a7f-49f8-a8ce-505364a366cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD ²" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes FHD ²
+http://oruk.online/live/039345276/199281357/4d01f42a-2273-4d98-a6d5-d5a5e7546ccf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD ²" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere Clubes HD ²
+http://oruk.online/live/039345276/199281357/c7371c4d-08b9-4768-bb7d-2cb2929a61e8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD ²" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 FHD ²
+http://oruk.online/live/039345276/199281357/c54a425b-f7a4-4bcc-ae4b-a27b21a4ea09.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD ² [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 FHD ² [H265]
+http://oruk.online/live/039345276/199281357/edc60ddd-d493-4f3c-9ea0-16e844a82713.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD ²" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 HD ²
+http://oruk.online/live/039345276/199281357/e46f3a3d-e690-49a5-9c51-8c819281cd71.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD ²" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 2 SD ²
+http://oruk.online/live/039345276/199281357/04b0aa53-a731-4c89-8c6c-932652bc7138.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD ²" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 FHD ²
+http://oruk.online/live/039345276/199281357/e760cd10-82bd-49af-bba2-73692cbf9e2c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD ² [H265]" tvg-logo="https://i.ibb.co/123cdHq/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 FHD ² [H265]
+http://oruk.online/live/039345276/199281357/1fa26198-4b8a-4342-bf08-2dd5344081c3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD ²" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 HD ²
+http://oruk.online/live/039345276/199281357/0cd70bf1-cdd8-428e-9df3-3d1f194b00c4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD ²" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 3 SD ²
+http://oruk.online/live/039345276/199281357/011afca4-3b7c-4bda-839c-f8d8efbcd52a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD ²" tvg-logo="https://i.ibb.co/bb47Q8x/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 FHD ²
+http://oruk.online/live/039345276/199281357/7fde1b35-463b-4717-8be2-76b49e2143b4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD ²" tvg-logo="https://i.ibb.co/rMpy4pR/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 HD ²
+http://oruk.online/live/039345276/199281357/79095f12-dd7d-4990-8668-a51d15f39ac0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD ²" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 4 SD ²
+http://oruk.online/live/039345276/199281357/7ac049e9-320d-4029-abe3-572d00ba222a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV 03" tvg-logo="https://i.imgur.com/mQC6j1N.jpeg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",CAZÉ TV 03
+http://oruk.online/live/039345276/199281357/4a55e438-2e7e-4164-ad89-a1fd1f2378af.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Nsports HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Nsports HD
+http://oruk.online/live/039345276/199281357/10711349-619a-4e2a-90bc-5cef9a233c9a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Nsports SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Nsports SD
+http://oruk.online/live/039345276/199281357/25f734d9-f36b-425e-b37c-76730eb66147.m3u
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.ibb.co/jJDMCKk/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 SD
+http://oruk.online/live/039345276/199281357/36a38dc2-efc8-4d44-afca-bb95a9cad7f6.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD" tvg-logo="https://i.ibb.co/Hxf72h5/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 FHD
+http://oruk.online/live/039345276/199281357/54b67647-2c8e-474c-aa6f-5a731192005d.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.ibb.co/m0hxCdd/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 HD
+http://oruk.online/live/039345276/199281357/7ed95530-bbc0-4f67-a221-d0d662ea9e53.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://i.ibb.co/Q8VHw31/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN FHD
+http://oruk.online/live/039345276/199281357/ebd04454-5bca-490e-8f3e-89b4aa83ab2c.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/M5g7Nwt/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN HD
+http://oruk.online/live/039345276/199281357/abf6c67c-401c-44ff-be52-d085c5411fb3.m3u
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 FHD" tvg-logo="https://i.ibb.co/TxC7ppZM/ESPN-6-fhd.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 6 FHD
+http://oruk.online/live/039345276/199281357/43fe2bef-660e-423c-b87e-ba3174cbfa31.m3u
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.ibb.co/5gxQhqyT/ESPN-6-hd.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 6 HD
+http://oruk.online/live/039345276/199281357/6bdab961-ec58-44ca-9fa5-2c4ef99dbb36.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="https://i.ibb.co/C6W2vB2/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 SD
+http://oruk.online/live/039345276/199281357/04d788e3-bba4-4598-96f1-f06086943ff9.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.ibb.co/N2zXfKK/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 HD
+http://oruk.online/live/039345276/199281357/1409202b-8352-4999-96da-6cbbdb1e02b2.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://i.ibb.co/k6SjmccW/ESPN-5-fhd.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 FHD
+http://oruk.online/live/039345276/199281357/c6d07319-444e-44ab-895c-317bfa92838a.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.ibb.co/wFXc7rF6/ESPN-5-hd.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 HD
+http://oruk.online/live/039345276/199281357/db3e6fe0-b56a-40f2-afc3-cc9340cfaf91.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.ibb.co/KFc7FBL/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 FHD
+http://oruk.online/live/039345276/199281357/68210f38-fbdb-48bd-a545-6dd809831123.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://i.ibb.co/VWS3MZp1/ESPN-5-sd.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 SD
+http://oruk.online/live/039345276/199281357/13fb6d7b-cca9-4b98-87af-17bb1c34f641.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 SD" tvg-logo="https://i.ibb.co/vvdFCMn/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 SD
+http://oruk.online/live/039345276/199281357/b7ab1223-66bd-49c4-8d8d-c11b3002b4e2.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://i.ibb.co/4g5WTdV/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN SD
+http://oruk.online/live/039345276/199281357/b7095e62-ad13-4d8c-8563-557d83db7751.m3u
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.ibb.co/PFLKWQm/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 3 FHD [H265]
+http://oruk.online/live/039345276/199281357/d4c6c6a2-c52b-426b-9696-2edf60b318a1.m3u
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD [H265]" tvg-logo="https://i.ibb.co/MMg79fb/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN FHD [H265]
+http://oruk.online/live/039345276/199281357/fdd64e0e-66e2-4395-8cca-9fe1b856d108.m3u
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.ibb.co/TWDNq4Z/HD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 HD
+http://oruk.online/live/039345276/199281357/cf303ed2-1030-45bc-926a-db4daf8bb8da.m3u
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD [H265]" tvg-logo="https://i.ibb.co/cS2wVd2L/Logo-Nova.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 5 FHD [H265]
+http://oruk.online/live/039345276/199281357/9ed62ddc-3332-476a-8b59-00ae2da99c0e.m3u
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.ibb.co/P1w38pL/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 FHD [H265]
+http://oruk.online/live/039345276/199281357/e2c186bd-ec5f-46eb-90f5-70c0aa27bfae.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.ibb.co/dDtC7Db/FHD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 FHD
+http://oruk.online/live/039345276/199281357/d32df6bd-8223-42bf-a4da-96661975df29.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD [H265]" tvg-logo="https://i.ibb.co/fYd5FD1/H265.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 2 HD [H265]
+http://oruk.online/live/039345276/199281357/e2c2fdc0-cb4f-4570-901e-fb8eb964acbe.m3u
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4K
+http://oruk.online/live/039345276/199281357/2f771a35-ec05-49c1-ae68-b83dbdc9a85d.m3u
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://lh3.googleusercontent.com/-4h5wLi-DGbM/YG2obFahJ5I/AAAAAAAAKKk/c05Ik85-8tknXkYRp93ZztZPBbAYlRI4gCLcBGAsYHQ/FOX%2BSPORTS%2B4K.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",ESPN 4 4K
+http://oruk.online/live/039345276/199281357/7bb19cc5-3e0d-4961-8945-fe055fe469cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Xsports FHD" tvg-logo="https://i.imgur.com/w5LzpCi.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Xsports FHD
+http://oruk.online/live/039345276/199281357/1e731c09-7e69-44a5-ba25-a23cf4e50714.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Xsports FHD [H265]" tvg-logo="https://i.imgur.com/w5LzpCi.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Xsports FHD [H265]
+http://oruk.online/live/039345276/199281357/05a22eaa-25bb-475a-9208-e747848d3d7e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Xsports HD" tvg-logo="https://i.imgur.com/w5LzpCi.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Xsports HD
+http://oruk.online/live/039345276/199281357/1efbc031-c2e4-4e78-bab0-8de05e15cb1b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Xsports SD" tvg-logo="https://i.imgur.com/w5LzpCi.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Xsports SD
+http://oruk.online/live/039345276/199281357/fc713b63-783a-440f-8f08-e46b358d0ff6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Premiere 8
+http://oruk.online/live/039345276/199281357/8a020d06-1d86-449c-93fe-5f566d5f9090.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas" tvg-logo="http://yan.boatv.at/imgs/globoplay-channel-min.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globoplay Novelas
+http://oruk.online/live/039345276/199281357/85064f4c-e207-4006-a3d7-f568a73e6333.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas FHD" tvg-logo="http://yan.boatv.at/imgs/globoplay-channel-min.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globoplay Novelas FHD
+http://oruk.online/live/039345276/199281357/f0cc0429-5065-4287-acd4-7ba99fca7f34.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas HD" tvg-logo="http://yan.boatv.at/imgs/globoplay-channel-min.png" group-title="CANAIS COMPLETO(SD,HD,FHD,4K)",Globoplay Novelas HD
+http://oruk.online/live/039345276/199281357/99cb097b-f82f-432c-bce0-c54d1c16039b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: BALLY SPORTS WISCONSIN" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/42872edfd0b90386a6c3980f118ca196.png" group-title="CANAIS INTERNACIONAIS",US: BALLY SPORTS WISCONSIN
+http://oruk.online/live/039345276/199281357/c5ecf8c7-c281-46be-8578-7f3bb4b15813.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Boston" tvg-logo="" group-title="CANAIS INTERNACIONAIS",US: NBC Sports Boston
+http://oruk.online/live/039345276/199281357/ed5d92ac-bcb6-45f4-9c6d-26f4161be067.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="" group-title="CANAIS INTERNACIONAIS",US: NBC Sports California
+http://oruk.online/live/039345276/199281357/c584116f-adff-4042-a1dc-d1e3f7f85ca7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Northwest HD" tvg-logo="" group-title="CANAIS INTERNACIONAIS",US: NBC Sports Northwest HD
+http://oruk.online/live/039345276/199281357/0e369d2b-97fe-4982-b3b7-b126568773d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports OHIO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66740408761.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports OHIO HD
+http://oruk.online/live/039345276/199281357/56b80869-b7c9-4b96-8145-1e2b77e750d1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Bally Sports Kansas CITY HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66247849561.png" group-title="CANAIS INTERNACIONAIS",SP: USA: Bally Sports Kansas CITY HD
+http://oruk.online/live/039345276/199281357/66e8d6eb-1133-4f2c-bebc-64165cb11e5c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Bally Sports NEW Orleans PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17459840071.png" group-title="CANAIS INTERNACIONAIS",SP: USA: Bally Sports NEW Orleans PLUS HD
+http://oruk.online/live/039345276/199281357/b1d6a06e-f05a-4722-8e7f-b300a79f3f48.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Detroit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18108439731.png" group-title="CANAIS INTERNACIONAIS",US: Bally Sports Detroit HD
+http://oruk.online/live/039345276/199281357/f5c9df59-e06d-4def-ad7c-bab308b9866d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS Sports Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94650054451.png" group-title="CANAIS INTERNACIONAIS",USA: CBS Sports Network HD
+http://oruk.online/live/039345276/199281357/8e22079e-9f94-41ae-b375-10537f31dbc1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Florida HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66038224381.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Florida HD
+http://oruk.online/live/039345276/199281357/0a51c959-e6f1-4bca-b445-842ad84329e5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX College Sports Atlantic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82119921241.png" group-title="CANAIS INTERNACIONAIS",US: FOX College Sports Atlantic HD
+http://oruk.online/live/039345276/199281357/52a7e3a0-7eba-4aa9-96c1-9a2a80cfb3ff.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX College Sports Pacific HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41005234941.png" group-title="CANAIS INTERNACIONAIS",US: FOX College Sports Pacific HD
+http://oruk.online/live/039345276/199281357/d266155b-b60a-4320-9c08-0d7db20c3662.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Arizona HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97481325531.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Arizona HD
+http://oruk.online/live/039345276/199281357/44452b2a-bd64-44ef-a27a-1adb7e5eddd6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Detroit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93405214591.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Detroit HD
+http://oruk.online/live/039345276/199281357/a6a31035-4b7b-4c13-911c-084327e88b87.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Midwest HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/49418050521.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Midwest HD
+http://oruk.online/live/039345276/199281357/854f8d55-b769-4df0-9ba5-516c186d98e5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Oklahoma HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37680862761.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Oklahoma HD
+http://oruk.online/live/039345276/199281357/52f8b236-79e6-48e0-8669-dac45061756b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports South Carolina HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23717493251.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports South Carolina HD
+http://oruk.online/live/039345276/199281357/02655e7e-7c88-44da-813d-8e7a0d09314b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Southwest HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91132652391.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Southwest HD
+http://oruk.online/live/039345276/199281357/3af49494-08d7-4281-843b-6832e7b2bba5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Tennessee HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68404150891.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Tennessee HD
+http://oruk.online/live/039345276/199281357/dbbc620a-c598-43d4-9b0a-7cd5626e4c79.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sports Wisconsin HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16841182081.png" group-title="CANAIS INTERNACIONAIS",US: FOX Sports Wisconsin HD
+http://oruk.online/live/039345276/199281357/cb9acb40-20e9-4853-9893-c254ad7470e8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US- FOX Sports Detroit HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91748566111.png" group-title="CANAIS INTERNACIONAIS",US- FOX Sports Detroit HD
+http://oruk.online/live/039345276/199281357/6398a962-7cb6-48eb-a459-1d3bafa3cba0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56816858311.png" group-title="CANAIS INTERNACIONAIS",USA | FOX Sports 1 HD
+http://oruk.online/live/039345276/199281357/28c385f4-f82b-48f9-8633-9e6e1bc81ff4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Chicago HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58305453271.png" group-title="CANAIS INTERNACIONAIS",US: NBC Sports Chicago HD
+http://oruk.online/live/039345276/199281357/bd2297f1-1b0b-4daa-84e9-a8a55b9d078c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Philadelphia PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67506253371.png" group-title="CANAIS INTERNACIONAIS",US: NBC Sports Philadelphia PLUS HD
+http://oruk.online/live/039345276/199281357/42c71b5e-a5ee-4285-9647-99ef28f960f8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cableonda Sports HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24877375591.png" group-title="CANAIS INTERNACIONAIS",LA: Cableonda Sports HD
+http://oruk.online/live/039345276/199281357/28dbf945-ae73-40cf-a7ae-ad6a4c278721.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX | AYM Sports (R) HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25091329121.png" group-title="CANAIS INTERNACIONAIS",MX | AYM Sports (R) HD
+http://oruk.online/live/039345276/199281357/607dc938-29fb-47c9-b7f1-d00f7478b4a6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96259819121.png" group-title="CANAIS INTERNACIONAIS",MX: FOX Sports 3 HD
+http://oruk.online/live/039345276/199281357/56b86922-d8d0-43ec-a0b1-1a1125d19dfd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png" group-title="CANAIS INTERNACIONAIS",ARG: TNT Sports HD
+http://oruk.online/live/039345276/199281357/a6cb457b-da44-4c35-bb81-7ba4055dcc14.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN Sports + HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92253261061.png" group-title="CANAIS INTERNACIONAIS",CO: WIN Sports + HD
+http://oruk.online/live/039345276/199281357/2a51741f-b1ac-4af7-8047-c38ce095e2c8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CL: FOX Sports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62426467171.png" group-title="CANAIS INTERNACIONAIS",CL: FOX Sports 1 HD
+http://oruk.online/live/039345276/199281357/c53c86fe-c7a6-42c2-8a2b-aae998bec3f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO: DirecTV Sports PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63097030271.png" group-title="CANAIS INTERNACIONAIS",CO: DirecTV Sports PLUS HD
+http://oruk.online/live/039345276/199281357/1b9b03fa-0e15-452b-a154-f16f246c2bab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO: FOX Sports 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79102027351.png" group-title="CANAIS INTERNACIONAIS",CO: FOX Sports 3 FHD
+http://oruk.online/live/039345276/199281357/fd362afd-3a41-402f-a673-67d6ae7c6a5e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55231963051.png" group-title="CANAIS INTERNACIONAIS",LA: ESPN HD
+http://oruk.online/live/039345276/199281357/d60d0d18-42e7-4eae-8ffd-9816af40d9b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89185694671.png" group-title="CANAIS INTERNACIONAIS",LA: ESPN 3 HD
+http://oruk.online/live/039345276/199281357/4ead0d8e-bf0a-4b1e-a76a-1b197272a858.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/87804862671.png" group-title="CANAIS INTERNACIONAIS",LA: ESPN 2 HD
+http://oruk.online/live/039345276/199281357/8383932b-71c2-4a2e-9a34-0b48f3c8423b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98242502121.png" group-title="CANAIS INTERNACIONAIS",MX: ESPN 1 HD
+http://oruk.online/live/039345276/199281357/6775e036-f39e-4dce-bed6-5ea21dd208c8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23175896971.png" group-title="CANAIS INTERNACIONAIS",MX: ESPN 2 HD
+http://oruk.online/live/039345276/199281357/56d540f7-45ed-4b10-9c1e-232c0e9738e4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63218809081.png" group-title="CANAIS INTERNACIONAIS",MX: ESPN 3 HD
+http://oruk.online/live/039345276/199281357/5d650738-9724-4d4f-a37b-f49941e66cc5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69749206811.png" group-title="CANAIS INTERNACIONAIS",MX: ESPN HD
+http://oruk.online/live/039345276/199281357/a425a12b-72d9-4b75-bc89-828b3c7abbba.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="CANAIS INTERNACIONAIS",ARG: ESPN Premium HD
+http://oruk.online/live/039345276/199281357/28152fe6-68df-4a50-89ef-2824cd135a0f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 325: Volkanovski vs. Lopes 2" tvg-logo="https://image.tmdb.org/t/p/w400/xoZDTsM9OOP2GzxAtiXwsRDAkrn.jpg" group-title="FILMES",- UFC 325: Volkanovski vs. Lopes 2
+http://oruk.online/movie/039345276/199281357/a282813f-5d0a-4da5-9237-caf63a56d475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 326: Holloway vs. Oliveira 2" tvg-logo="https://image.tmdb.org/t/p/w400/8MsdsrGjxc2r6h2Z5tPEk1aYL1l.jpg" group-title="FILMES",- UFC 326: Holloway vs. Oliveira 2
+http://oruk.online/movie/039345276/199281357/6408f6c3-ea50-4600-85ab-bf54926a0614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 327: Procházka vs. Ulberg" tvg-logo="https://image.tmdb.org/t/p/w400/xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" group-title="FILMES",- UFC 327: Procházka vs. Ulberg
+http://oruk.online/movie/039345276/199281357/a7a5b890-3974-4a91-86ad-41c16405a6d2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 266: Bautista vs. Oliveira" tvg-logo="https://image.tmdb.org/t/p/w400/4aq2ZfcHp9iqgVcFM5ToXUTNp4q.jpg" group-title="FILMES",- UFC Fight Night 266: Bautista vs. Oliveira
+http://oruk.online/movie/039345276/199281357/7a1e563c-9809-4d2c-ae7a-0e78a35bd9f5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 267: Strickland vs. Hernandez" tvg-logo="https://image.tmdb.org/t/p/w400/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="FILMES",- UFC Fight Night 267: Strickland vs. Hernandez
+http://oruk.online/movie/039345276/199281357/b6420d63-f4dd-48e3-807b-5c81daaec773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 268: Moreno vs. Kavanagh" tvg-logo="https://image.tmdb.org/t/p/w400/2KXYDDtitf4hyFm1eI3wdcV2r8c.jpg" group-title="FILMES",- UFC Fight Night 268: Moreno vs. Kavanagh
+http://oruk.online/movie/039345276/199281357/33ce9205-d30d-4e21-832e-bf9cf837b79f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 270: Evloev vs. Murphy" tvg-logo="https://image.tmdb.org/t/p/w400/lmyayfRfWpT3wFCkCPIJauJxLpE.jpg" group-title="FILMES",- UFC Fight Night 270: Evloev vs. Murphy
+http://oruk.online/movie/039345276/199281357/397aa86d-da4b-4df0-af95-0cce61a0b40e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 271: Adesanya vs. Pyfer" tvg-logo="https://image.tmdb.org/t/p/w400/7gJjL4R6k9XXWiw3j1lm5NuG7at.jpg" group-title="FILMES",- UFC Fight Night 271: Adesanya vs. Pyfer
+http://oruk.online/movie/039345276/199281357/d11239fc-52cc-4bb7-9802-a1f5ecc8abbc.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 272: Moicano vs. Duncan" tvg-logo="https://image.tmdb.org/t/p/w400/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="FILMES",- UFC Fight Night 272: Moicano vs. Duncan
+http://oruk.online/movie/039345276/199281357/19cde26e-e66f-427c-a440-116af9123831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 275: Della Maddalena vs. Prates" tvg-logo="https://image.tmdb.org/t/p/w400/cW9uNePEqJ1aY5LdbUUeHhGrUx4.jpg" group-title="FILMES",- UFC Fight Night 275: Della Maddalena vs. Prates
+http://oruk.online/movie/039345276/199281357/640964f1-9bf3-4f3f-aa3a-c4b4dd2c693b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 276: Allen vs. Costa" tvg-logo="https://image.tmdb.org/t/p/w400/4Wa1vZRu7HoanHqnMllLlEAVocI.jpg" group-title="FILMES",- UFC Fight Night 276: Allen vs. Costa
+http://oruk.online/movie/039345276/199281357/5c5dfcbd-d618-42d7-82e5-85b6c57ccec6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 278: Muhammad vs. Bonfim" tvg-logo="https://image.tmdb.org/t/p/w400/szJJreLYexjod1zLbLa0Or7Na81.jpg" group-title="FILMES",- UFC Fight Night 278: Muhammad vs. Bonfim
+http://oruk.online/movie/039345276/199281357/7a5d815c-7071-4194-b1d0-32e3436f97e0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Marvel Studios' The Fantastic Four: First Steps - World Premiere" tvg-logo="https://image.tmdb.org/t/p/w400/bZOmSyxj6xJDd00eBRMasKY952M.jpg" group-title="FILMES",- Marvel Studios' The Fantastic Four: First Steps - World Premiere
+http://oruk.online/movie/039345276/199281357/fcb1e0ef-61f4-42d3-9e47-ecba0b1e3929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Fora de Combate (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/47ITipyIx7QPjB1oyNsR6H52Ic0.jpg" group-title="FILMES",- Fora de Combate (2018)
+http://oruk.online/movie/039345276/199281357/72b87ab6-c68c-42a2-b9f2-477acb6b4e71.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- 684: Unidade de Combate (2003)" tvg-logo="https://image.tmdb.org/t/p/w400/ncDikQpraKhZa6mEMzOZtyynf8D.jpg" group-title="FILMES",- 684: Unidade de Combate (2003)
+http://oruk.online/movie/039345276/199281357/1d73eae0-2e86-4f44-b2ca-009b03ce18e1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Alita: Anjo de Combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES",- Alita: Anjo de Combate (2019)
+http://oruk.online/movie/039345276/199281357/cbf19be7-6780-465c-a940-522f9184273e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Esporte Sangrento (1993)" tvg-logo="https://image.tmdb.org/t/p/w400/uTQ42xQ0dWMtppI1AvvNLSFrHMD.jpg" group-title="FILMES",- Esporte Sangrento (1993)
+http://oruk.online/movie/039345276/199281357/875bb0bd-5f11-45b2-b89c-264b66fb0185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Nadando em Dinheiro (1952)" tvg-logo="https://image.tmdb.org/t/p/w400/nst4jL3B6YpkEXFSUFCtwrHZZek.jpg" group-title="FILMES",- Nadando em Dinheiro (1952)
+http://oruk.online/movie/039345276/199281357/12fe5aff-ddae-4bcc-9d92-735ac7ca9ae9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Pilotos de combate (1973)" tvg-logo="https://image.tmdb.org/t/p/w400/s1rGlUhLSaEdhkxnDplRnH9CksI.jpg" group-title="FILMES",- Pilotos de combate (1973)
+http://oruk.online/movie/039345276/199281357/e1853914-5599-4815-a9a7-1b82426c402b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 324: Gaethje vs. Pimblett" tvg-logo="https://image.tmdb.org/t/p/w400/sAeBHIJMoxYeXLzU8hVTo3N6uQD.jpg" group-title="FILMES",- UFC 324: Gaethje vs. Pimblett
+http://oruk.online/movie/039345276/199281357/892d1e49-de82-4f2f-abf9-a5910ebaf2ff.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Os Oito Odiados" tvg-logo="https://image.tmdb.org/t/p/w400/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg" group-title="FILMES",- Os Oito Odiados
+http://oruk.online/movie/039345276/199281357/3e49d86c-cca1-45df-bc81-b28bb5440a15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Globo de Neve" tvg-logo="https://image.tmdb.org/t/p/w400/wQN6hnpTmHwFgGZjidVFZ2EpAJT.jpg" group-title="FILMES",- Globo de Neve
+http://oruk.online/movie/039345276/199281357/62325ed1-71bc-4528-97e4-53ef46e9622e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Um Fim de Semana de Inverno" tvg-logo="https://image.tmdb.org/t/p/w400/bKZvOUuFcbLhhhDFUISXb09jYdI.jpg" group-title="FILMES",- Um Fim de Semana de Inverno
+http://oruk.online/movie/039345276/199281357/0592ab15-d35b-4301-a447-cd8fd134c06a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- As Novas Aventuras do Fusca (1974)" tvg-logo="https://image.tmdb.org/t/p/w400/2owUFcJsLJw7e6k6CliDRWkoGX4.jpg" group-title="FILMES",- As Novas Aventuras do Fusca (1974)
+http://oruk.online/movie/039345276/199281357/895d4076-b793-489e-981f-263833f2322e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Posto de Combate" tvg-logo="https://image.tmdb.org/t/p/w400/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg" group-title="FILMES",- Posto de Combate
+http://oruk.online/movie/039345276/199281357/c2a05f50-7e22-416c-bbd5-cfca39abc75c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Wolf Pack: Unidade de Combate" tvg-logo="https://image.tmdb.org/t/p/w400/lE41c13A5bkiar0SwQ8JhfZGAYS.jpg" group-title="FILMES",- Wolf Pack: Unidade de Combate
+http://oruk.online/movie/039345276/199281357/62b4a388-2c1f-4166-b1bd-0507eb79fcf0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Feitiço do Rio (1984)" tvg-logo="https://image.tmdb.org/t/p/w400/yzNtmqL6HUFC7FZl9DnGmhnCQUL.jpg" group-title="FILMES",- Feitiço do Rio (1984)
+http://oruk.online/movie/039345276/199281357/ab95e870-6e0a-4592-bc80-35fdd83484ac.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Festim Diabólico (1948)" tvg-logo="https://image.tmdb.org/t/p/w400/qcWwUcjB6yoxYcjCtRYOMuFc6pH.jpg" group-title="FILMES",- Festim Diabólico (1948)
+http://oruk.online/movie/039345276/199281357/50d4d84c-cd15-46c5-8ff8-b232636fba29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- O Homem Certo (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/6LFx4D7UfcLx0ARYCVa6N2Fzmlc.jpg" group-title="FILMES",- O Homem Certo (2021)
+http://oruk.online/movie/039345276/199281357/9ba495c9-ac84-4921-95fe-8b2d07e7280d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Uma História Americana" tvg-logo="https://image.tmdb.org/t/p/w400/htufce7igCsiVgsZslsQ8tE5ekH.jpg" group-title="FILMES",- Uma História Americana
+http://oruk.online/movie/039345276/199281357/9b9d373d-2338-481e-bc50-bfa06eeda1c8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Que Mulher é Essa? (2001)" tvg-logo="https://image.tmdb.org/t/p/w400/s2xnMAXAufcjZTJnegAnOHCnAqY.jpg" group-title="FILMES",- Que Mulher é Essa? (2001)
+http://oruk.online/movie/039345276/199281357/4218c9a1-61fd-4289-b350-87c449a45610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Zona De Quarentena" tvg-logo="https://image.tmdb.org/t/p/w400/kHQxzKpQGO9tec3b09HZKUfcyr6.jpg" group-title="FILMES",- Zona De Quarentena
+http://oruk.online/movie/039345276/199281357/a00f2ee7-e045-42c2-ae58-d9eeb0481441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Mark Cavendish, Pedalando Até O Fim" tvg-logo="https://image.tmdb.org/t/p/w400/fIS2i5KpcHO4IUNjUfcowM4S2At.jpg" group-title="FILMES",- Mark Cavendish, Pedalando Até O Fim
+http://oruk.online/movie/039345276/199281357/f6ddb2c0-f74b-47a7-a42c-588c4c8a2e21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- O Dia em que o Esporte Parou" tvg-logo="https://image.tmdb.org/t/p/w400/xy0FIKNzPCEB5vu33MTWW44XWFW.jpg" group-title="FILMES",- O Dia em que o Esporte Parou
+http://oruk.online/movie/039345276/199281357/9d00e1a3-c756-4a37-8ed3-be426214e828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- A Lenda do Búfalo (2025) [L]" tvg-logo="https://image.tmdb.org/t/p/w400/5IPFJ2XFbYjdIw4912ZufCMolX.jpg" group-title="FILMES",- A Lenda do Búfalo (2025) [L]
+http://oruk.online/movie/039345276/199281357/9434c0d9-6ccf-4a1e-afb2-d96377d075ee.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Não Converse com Estranhos (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/w6pFDkhL71AUfCXDfZafuwZ3Q1R.jpg" group-title="FILMES",- Não Converse com Estranhos (2019)
+http://oruk.online/movie/039345276/199281357/768d5ed2-d0b3-49e1-8705-f584b4344e28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- O Mistério da Passagem da Morte (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/cxGEOCNhInusbtcufcFKSb4rj1o.jpg" group-title="FILMES",- O Mistério da Passagem da Morte (2013)
+http://oruk.online/movie/039345276/199281357/0f66b666-d3d9-4d9a-b054-eaa356410530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Shaolin (2011)" tvg-logo="https://image.tmdb.org/t/p/w400/hEtN6CgtMLWopOGstYUFCcKrE3i.jpg" group-title="FILMES",- Shaolin (2011)
+http://oruk.online/movie/039345276/199281357/864a06f6-2b5c-4524-bb4f-cdf26e9c3918.aria2
+#EXTINF:-1 tvg-id="" tvg-name="- Shootfighter: O Combate Mortal (1993)" tvg-logo="https://image.tmdb.org/t/p/w400/77FwxEOXJOmGBVs8XKkwmk35tm8.jpg" group-title="FILMES",- Shootfighter: O Combate Mortal (1993)
+http://oruk.online/movie/039345276/199281357/069630ef-6294-4a0c-bbf7-ed2b12150521.aria2
+#EXTINF:-1 tvg-id="" tvg-name="- O Último Combate (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/w8sNJnX5ZEUgFBRf3vx1spI9BsU.jpg" group-title="FILMES",- O Último Combate (2024)
+http://oruk.online/movie/039345276/199281357/de913958-e86d-4dc4-860f-ccd6279428a2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 311: Makhachev vs. Moicano" tvg-logo="https://image.tmdb.org/t/p/w400/osB5inl8PzaZiC3OYRr2WOepjwr.jpg" group-title="FILMES",- UFC 311: Makhachev vs. Moicano
+http://oruk.online/movie/039345276/199281357/83defef3-91b8-4bab-a3a7-51e6a0153c82.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 313: Pereira vs. Ankalaev" tvg-logo="https://image.tmdb.org/t/p/w400/lOKaLq4i16KZg2nzo0q1vdGKlip.jpg" group-title="FILMES",- UFC 313: Pereira vs. Ankalaev
+http://oruk.online/movie/039345276/199281357/8f4529bf-f7b1-41f3-9d31-4d8c6ac04cc7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 317: Topuria vs. Oliveira" tvg-logo="https://image.tmdb.org/t/p/w400/nMdjudaUKePXVSaCaqYFTTGZIik.jpg" group-title="FILMES",- UFC 317: Topuria vs. Oliveira
+http://oruk.online/movie/039345276/199281357/c3dfee14-3a30-424c-a270-5c8ccb61aab5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 318: Holloway vs. Poirier 3" tvg-logo="https://image.tmdb.org/t/p/w400/j7cPZPCO9jo0xxfghfChAWVpjuz.jpg" group-title="FILMES",- UFC 318: Holloway vs. Poirier 3
+http://oruk.online/movie/039345276/199281357/ccceaba5-39ca-41bb-9186-0ad1bd3e8c0d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 320: Ankalaev vs. Pereira 2" tvg-logo="https://image.tmdb.org/t/p/w400/risS8tlRrCqcLGm1pWccdPL4uG9.jpg" group-title="FILMES",- UFC 320: Ankalaev vs. Pereira 2
+http://oruk.online/movie/039345276/199281357/6859435c-77b2-4876-bf56-6fb130ab4f57.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 321: Aspinall vs. Gane" tvg-logo="https://image.tmdb.org/t/p/w400/q8IBnGPkIHRXYPckBnsWkh5iszL.jpg" group-title="FILMES",- UFC 321: Aspinall vs. Gane
+http://oruk.online/movie/039345276/199281357/669d2462-85b9-4557-9aac-13d59a961f2f.aria2
+#EXTINF:-1 tvg-id="" tvg-name="- Mark Cavendish, Pedalando Até O Fim (2023) [L]" tvg-logo="https://image.tmdb.org/t/p/w400/fIS2i5KpcHO4IUNjUfcowM4S2At.jpg" group-title="FILMES",- Mark Cavendish, Pedalando Até O Fim (2023) [L]
+http://oruk.online/movie/039345276/199281357/229e5a97-c039-4a97-85b3-c5b10d45a8f2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 319: du Plessis vs. Chimaev" tvg-logo="https://image.tmdb.org/t/p/w400/sllTo8ajL9P76k6hL80glCiJGAq.jpg" group-title="FILMES",- UFC 319: du Plessis vs. Chimaev
+http://oruk.online/movie/039345276/199281357/1bf931cf-7909-42ab-a269-b81e916e15fd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC 322: Della Maddalena vs. Makhachev" tvg-logo="https://image.tmdb.org/t/p/w400/9NMA6qNCRSUmIARMVY49bEFGPlx.jpg" group-title="FILMES",- UFC 322: Della Maddalena vs. Makhachev
+http://oruk.online/movie/039345276/199281357/e8fb8899-291c-4756-b061-c771f635c398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 253: Kape vs. Almabayev" tvg-logo="https://image.tmdb.org/t/p/w400/8m51y7cfcwotQMtsUoKKBI1THdo.jpg" group-title="FILMES",- UFC Fight Night 253: Kape vs. Almabayev
+http://oruk.online/movie/039345276/199281357/c9c037cc-9614-4255-bef9-0d63c6c300bd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 254: Vettori vs. Dolidze 2" tvg-logo="https://image.tmdb.org/t/p/w400/gyMRwMVbbA4yOeiKJ13E9zZwyWs.jpg" group-title="FILMES",- UFC Fight Night 254: Vettori vs. Dolidze 2
+http://oruk.online/movie/039345276/199281357/e4100ded-e27b-41c9-872f-135d7a71a90b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 256: Burns vs. Morales" tvg-logo="https://image.tmdb.org/t/p/w400/4QSAYIHkg5IfHL3tvmvhXXlZWwF.jpg" group-title="FILMES",- UFC Fight Night 256: Burns vs. Morales
+http://oruk.online/movie/039345276/199281357/575f4f28-8edd-4502-9133-5d8c7e8acd22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 257: Walker vs. Zhang" tvg-logo="https://image.tmdb.org/t/p/w400/ccmc8OMG9jH13IKhOJS8FUZMiYz.jpg" group-title="FILMES",- UFC Fight Night 257: Walker vs. Zhang
+http://oruk.online/movie/039345276/199281357/0783b8ef-d9af-475c-9562-fe20b60b2594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 258: Imavov vs. Borralho" tvg-logo="https://image.tmdb.org/t/p/w400/mj3S0pMp5kHccFmyVZ1L49c2Xtp.jpg" group-title="FILMES",- UFC Fight Night 258: Imavov vs. Borralho
+http://oruk.online/movie/039345276/199281357/6a2eba54-a570-48e2-808e-c52f22fc3a88.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 259: Lopes vs. Silva" tvg-logo="https://image.tmdb.org/t/p/w400/mz46A273TKSmScnVE7YwEpwTrIz.jpg" group-title="FILMES",- UFC Fight Night 259: Lopes vs. Silva
+http://oruk.online/movie/039345276/199281357/d47f422b-786c-4523-8859-71e9bc7d6d7c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 260: Ulberg vs. Reyes" tvg-logo="https://image.tmdb.org/t/p/w400/nzCwCaT3l2f63ZanExAvq95zvmX.jpg" group-title="FILMES",- UFC Fight Night 260: Ulberg vs. Reyes
+http://oruk.online/movie/039345276/199281357/d971162e-02f4-4c7a-8de0-3b72710f4472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 261: Oliveira vs. Gamrot" tvg-logo="https://image.tmdb.org/t/p/w400/rghYP9uKA9J8agCIomNEjzwUafn.jpg" group-title="FILMES",- UFC Fight Night 261: Oliveira vs. Gamrot
+http://oruk.online/movie/039345276/199281357/a4c4169f-d32a-41a7-a4f2-d668233bf1d5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 262: de Ridder vs. Allen" tvg-logo="https://image.tmdb.org/t/p/w400/4AN5TFjodXnLTXxZvBaQVpdD2gm.jpg" group-title="FILMES",- UFC Fight Night 262: de Ridder vs. Allen
+http://oruk.online/movie/039345276/199281357/309695dc-e305-48e1-8a11-03b4b4336c98.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 263: Garcia vs. Onama" tvg-logo="https://image.tmdb.org/t/p/w400/58CntwIBhPezpGljHg4Bune2mXR.jpg" group-title="FILMES",- UFC Fight Night 263: Garcia vs. Onama
+http://oruk.online/movie/039345276/199281357/3e1fb2d6-7209-47b2-b48b-bd0d97a35f1b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 264: Bonfim vs. Brown" tvg-logo="https://image.tmdb.org/t/p/w400/4Tf2O273lHOKXd85YbOW4C4rKaC.jpg" group-title="FILMES",- UFC Fight Night 264: Bonfim vs. Brown
+http://oruk.online/movie/039345276/199281357/5c649f61-0626-446c-b1de-d3b24340dcd9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Fight Night 265: Tsarukyan vs. Hooker" tvg-logo="https://image.tmdb.org/t/p/w400/7xxilzCS72ukBvt3wg3idQbLTEM.jpg" group-title="FILMES",- UFC Fight Night 265: Tsarukyan vs. Hooker
+http://oruk.online/movie/039345276/199281357/5f6752fd-5f55-4f5d-8323-0a72e1f4ebb1.aria2
+#EXTINF:-1 tvg-id="" tvg-name="- Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025) [L]" tvg-logo="https://image.tmdb.org/t/p/w400/bZOmSyxj6xJDd00eBRMasKY952M.jpg" group-title="FILMES",- Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025) [L]
+http://oruk.online/movie/039345276/199281357/37ae6a36-208f-4a20-8118-8207b2f5e084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 66: Machado Garry vs. Prates" tvg-logo="https://image.tmdb.org/t/p/w400/1QwNcc1FS8GzVbno8KzxCE5XbVw.jpg" group-title="FILMES",- UFC on ESPN 66: Machado Garry vs. Prates
+http://oruk.online/movie/039345276/199281357/92e0b6b2-7641-4058-98bd-b4c87b8248f1.aria2
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ABC 8: Hill vs. Rountree Jr." tvg-logo="https://image.tmdb.org/t/p/w400/yjA69XE8phBEJIlQCGcEsLgwA7W.jpg" group-title="FILMES",- UFC on ABC 8: Hill vs. Rountree Jr.
+http://oruk.online/movie/039345276/199281357/0795bac7-7719-4afc-b93e-937bffed51ed.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 64: Moreno vs. Erceg" tvg-logo="https://image.tmdb.org/t/p/w400/dx87XigdvTHNdESjLbSeLQnIoBC.jpg" group-title="FILMES",- UFC on ESPN 64: Moreno vs. Erceg
+http://oruk.online/movie/039345276/199281357/a560a9dc-a0a8-40ee-bbbb-919f50baaad5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 67: Sandhagen vs. Figueiredo" tvg-logo="https://image.tmdb.org/t/p/w400/bRiuuMKG5wsdEuGUaF4TM0UPPN5.jpg" group-title="FILMES",- UFC on ESPN 67: Sandhagen vs. Figueiredo
+http://oruk.online/movie/039345276/199281357/0fc2e051-263b-4065-a427-87a842455f4a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 69: Usman vs. Buckley" tvg-logo="https://image.tmdb.org/t/p/w400/izxUQUR7IBUBYZaavFcbsRVFX66.jpg" group-title="FILMES",- UFC on ESPN 69: Usman vs. Buckley
+http://oruk.online/movie/039345276/199281357/75f9d971-0e71-420f-b86d-1746ec0a59f5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 70: Lewis vs. Teixeira" tvg-logo="https://image.tmdb.org/t/p/w400/hRgqZkmQj4f5lA5uWY1sLZqWifC.jpg" group-title="FILMES",- UFC on ESPN 70: Lewis vs. Teixeira
+http://oruk.online/movie/039345276/199281357/5254998b-dd82-4ef5-af84-7f5a35628fcd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 71: Taira vs. Park" tvg-logo="https://image.tmdb.org/t/p/w400/pxLnN5ZnVLn3DOM9jLxU3OGw53M.jpg" group-title="FILMES",- UFC on ESPN 71: Taira vs. Park
+http://oruk.online/movie/039345276/199281357/d5efb8cb-eea6-4316-ab2b-d4a4b320e320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 72: Dolidze vs. Hernandez" tvg-logo="https://image.tmdb.org/t/p/w400/V3vkYcsxDw6x1lg31SKhSoJRXz.jpg" group-title="FILMES",- UFC on ESPN 72: Dolidze vs. Hernandez
+http://oruk.online/movie/039345276/199281357/e7e286b1-6e9f-4ed0-8d75-5917d637ec4a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC on ESPN 73: Royval vs. Kape" tvg-logo="https://image.tmdb.org/t/p/w400/ruecaJTlopSfXQ6WvXnbbL6eSIK.jpg" group-title="FILMES",- UFC on ESPN 73: Royval vs. Kape
+http://oruk.online/movie/039345276/199281357/c4e7af7f-4ab6-4bad-b66f-dfb9ae8fb124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Noite de Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/8svyTfpaaHfzOufcvus02Nn2etS.jpg" group-title="FILMES",- Noite de Paris (2022)
+http://oruk.online/movie/039345276/199281357/02ca8f6f-3dce-4d5a-a906-5c756f46a0e5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- O Dia em que o Esporte Parou (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/xy0FIKNzPCEB5vu33MTWW44XWFW.jpg" group-title="FILMES",- O Dia em que o Esporte Parou (2021)
+http://oruk.online/movie/039345276/199281357/96667a1a-1e53-4607-8223-8eb36c022cb5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Zona de Combate (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" group-title="FILMES",- Zona de Combate (2021)
+http://oruk.online/movie/039345276/199281357/e9fcae57-d059-47d8-a2a4-4197548b8ea4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Os Oito Odiados (2015)" tvg-logo="https://image.tmdb.org/t/p/w400/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg" group-title="FILMES",[L] Os Oito Odiados (2015)
+http://oruk.online/movie/039345276/199281357/0676cb40-3bfe-4373-a0e9-fe4edd0e4de5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Pilotos de combate (1973)" tvg-logo="https://image.tmdb.org/t/p/w400/s1rGlUhLSaEdhkxnDplRnH9CksI.jpg" group-title="FILMES",[L] Pilotos de combate (1973)
+http://oruk.online/movie/039345276/199281357/4d8057a0-6b0c-45e2-87ca-5a097db0875d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Posto de Combate (2020)" tvg-logo="https://image.tmdb.org/t/p/w400/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg" group-title="FILMES",[L] Posto de Combate (2020)
+http://oruk.online/movie/039345276/199281357/11110f1c-0922-49b6-9f01-e30979a500f5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] 684: Unidade de Combate (2003)" tvg-logo="https://image.tmdb.org/t/p/w400/ncDikQpraKhZa6mEMzOZtyynf8D.jpg" group-title="FILMES",[L] 684: Unidade de Combate (2003)
+http://oruk.online/movie/039345276/199281357/92cb5a38-0822-42e3-ae2b-20b0ce6652e7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Alita: Anjo de Combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES",[L] Alita: Anjo de Combate (2019)
+http://oruk.online/movie/039345276/199281357/f689eb63-d4d4-4985-a533-bfcfdfa57a52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] As Novas Aventuras do Fusca (1974)" tvg-logo="https://image.tmdb.org/t/p/w400/2owUFcJsLJw7e6k6CliDRWkoGX4.jpg" group-title="FILMES",[L] As Novas Aventuras do Fusca (1974)
+http://oruk.online/movie/039345276/199281357/2b5d0974-f5ba-46d3-b1f4-bbcbe573a1ec.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Não Converse com Estranhos (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/w6pFDkhL71AUfCXDfZafuwZ3Q1R.jpg" group-title="FILMES",[L] Não Converse com Estranhos (2019)
+http://oruk.online/movie/039345276/199281357/470962db-880c-465d-a23d-b35fd065509a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[4K] Alita: Anjo de Combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES",[4K] Alita: Anjo de Combate (2019)
+http://oruk.online/movie/039345276/199281357/ab071ab9-88be-4907-8dd2-e05349487b6e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 324 Adam Fugitt vs Ty Miller (2026) [Card Preliminar] - 2026" tvg-logo="https://image.tmdb.org/t/p/w780/sAeBHIJMoxYeXLzU8hVTo3N6uQD.jpg" group-title="FILMES",UFC 324 Adam Fugitt vs Ty Miller (2026) [Card Preliminar] - 2026
+http://oruk.online/movie/039345276/199281357/b37fc725-7bbe-4651-9c5b-7a5f8a8035ba.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shootfighter: O Combate Mortal" tvg-logo="https://image.tmdb.org/t/p/w400/77FwxEOXJOmGBVs8XKkwmk35tm8.jpg" group-title="FILMES",Shootfighter: O Combate Mortal
+http://oruk.online/movie/039345276/199281357/d652d975-b49a-4441-b67d-6acdee6468c7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Combatentes da Liberdade: Ray" tvg-logo="https://image.tmdb.org/t/p/w400/vH6xVfAfgE1Toe5CMjHit8DPqMQ.jpg" group-title="FILMES",- Combatentes da Liberdade: Ray
+http://oruk.online/movie/039345276/199281357/79126da4-ae12-4d7e-afa6-87eaf7484c95.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Dragon Ball Z: O Combate Final, Bio-Broly" tvg-logo="https://image.tmdb.org/t/p/w400/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES",- Dragon Ball Z: O Combate Final, Bio-Broly
+http://oruk.online/movie/039345276/199281357/998d6f9a-c759-4a23-99fb-e74de897eac9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Alita: Anjo de Combate" tvg-logo="https://image.tmdb.org/t/p/w400/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" group-title="FILMES",- Alita: Anjo de Combate
+http://oruk.online/movie/039345276/199281357/e76c903b-65ef-4e15-8727-a8bf73cc1567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Lego Liga da Justiça: Combate Cósmico" tvg-logo="https://image.tmdb.org/t/p/w400/lxO2VxlzrgoW59Ox92HQWoVZy1Y.jpg" group-title="FILMES",- Lego Liga da Justiça: Combate Cósmico
+http://oruk.online/movie/039345276/199281357/7f01f26a-2691-4be5-a6fd-c377c6208487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Vombate ao Combate" tvg-logo="https://image.tmdb.org/t/p/w400/h9Q9XlyIBspegMLCuxo4UWZyZlm.jpg" group-title="FILMES",- Vombate ao Combate
+http://oruk.online/movie/039345276/199281357/9f5158ec-c990-4119-b92a-f5025cd96dd7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Águia de Aço IV: O Combate Final" tvg-logo="https://image.tmdb.org/t/p/w400/ikXn7Y1XVxWjAT2Inoi6586e4ts.jpg" group-title="FILMES",- Águia de Aço IV: O Combate Final
+http://oruk.online/movie/039345276/199281357/eaf0481a-f7a6-427d-84b1-8b3c395ccbc3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- UFC Freedom 250: Topuria vs. Gaethje" tvg-logo="https://image.tmdb.org/t/p/w400/9bkunLw8kI13A7aPIjduoUleQ9b.jpg" group-title="FILMES",- UFC Freedom 250: Topuria vs. Gaethje
+http://oruk.online/movie/039345276/199281357/59cd2b81-fd74-494d-80e2-5b15ffaf65d6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] A Lenda do Búfalo (2025)" tvg-logo="https://image.tmdb.org/t/p/w400/5IPFJ2XFbYjdIw4912ZufCMolX.jpg" group-title="FILMES",[L] A Lenda do Búfalo (2025)
+http://oruk.online/movie/039345276/199281357/41016e52-6699-4f11-9863-cdedf58e7c8e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Mark Cavendish, Pedalando Até O Fim (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/fIS2i5KpcHO4IUNjUfcowM4S2At.jpg" group-title="FILMES",[L] Mark Cavendish, Pedalando Até O Fim (2023)
+http://oruk.online/movie/039345276/199281357/069e30d7-adcd-4295-8b00-c10b202203e7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025)" tvg-logo="https://image.tmdb.org/t/p/w400/bZOmSyxj6xJDd00eBRMasKY952M.jpg" group-title="FILMES",[L] Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025)
+http://oruk.online/movie/039345276/199281357/63c6cad7-565e-4cbf-b9ba-bf450b1283b5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[L] O Dia em que o Esporte Parou (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/xy0FIKNzPCEB5vu33MTWW44XWFW.jpg" group-title="FILMES",[L] O Dia em que o Esporte Parou (2021)
+http://oruk.online/movie/039345276/199281357/2c707d17-c748-41e4-8f3a-999c46580c95.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- A Colecionadora: Mundos Paralelos" tvg-logo="https://image.tmdb.org/t/p/w400/bzmuP4YlFuFc7jhTYIhEXnFXU2C.jpg" group-title="FILMES",- A Colecionadora: Mundos Paralelos
+http://oruk.online/movie/039345276/199281357/84094097-e027-405a-ad66-cfb2b3d6af0d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S5 E8" tvg-logo="https://image.tmdb.org/t/p/w400/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg" group-title="SÉRIES",Cobra Kai S5 E8
+http://oruk.online/series/039345276/199281357/16f0c64a-b5d2-4424-9496-f87bd9d08a9b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Everwood: Uma Segunda Chance S4 E4" tvg-logo="https://image.tmdb.org/t/p/w400/espnW7wDeKBEj4OH5JJGbGuQ7h4.jpg" group-title="SÉRIES",Everwood: Uma Segunda Chance S4 E4
+http://oruk.online/series/039345276/199281357/55d6d7dd-4d2a-4756-a786-c685e57ddec8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Testamentos: Das Filhas de Gilead S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/azUwuFCAY9ZgOq70zKeQH6WzLIk.jpg" group-title="SÉRIES",Os Testamentos: Das Filhas de Gilead S1 E4
+http://oruk.online/series/039345276/199281357/3c138ca0-4575-42b1-a39f-3d6e6b84e83c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: Sangue, Apostas e Navalhas S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/zYGvwuFcg5WdqqdR5px1xADc8bn.jpg" group-title="SÉRIES",Peaky Blinders: Sangue, Apostas e Navalhas S2 E4
+http://oruk.online/series/039345276/199281357/3d065c87-3191-4f51-b948-dd490bfb05fd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol da Minha Vida S1 E27" tvg-logo="https://image.tmdb.org/t/p/w400/2NGpzKjccjx1xbxuFCykaUHZvlz.jpg" group-title="SÉRIES",Sol da Minha Vida S1 E27
+http://oruk.online/series/039345276/199281357/d70b7d72-3cba-4462-bb08-3adf9b99c955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos: Espiões do Asfalto S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/lM9RFuFclVu8DiXdIpF5SPeONn1.jpg" group-title="SÉRIES",Velozes e Furiosos: Espiões do Asfalto S3 E5
+http://oruk.online/series/039345276/199281357/e29f8604-2d18-41aa-a754-efe78aecba95.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Babilônia S1 E77" tvg-logo="https://image.tmdb.org/t/p/w400/hICZuFcwrqAbCtluXnhSC5HKKZJ.jpg" group-title="SÉRIES",+ Babilônia S1 E77
+http://oruk.online/series/039345276/199281357/5abcb427-4279-4d86-8976-e44d20d0b08d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Como você não há dois S1 E21" tvg-logo="https://image.tmdb.org/t/p/w400/wVApaufCBV5N76MbXPJ28N3Opbb.jpg" group-title="SÉRIES",+ Como você não há dois S1 E21
+http://oruk.online/series/039345276/199281357/fb43211b-eaf3-4348-8fb3-b0a32d5b4efa.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Amores que Enganam S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/m86wfSbxZp55VDRTUFC6yPOhkE1.jpg" group-title="SÉRIES",+ Amores que Enganam S1 E6
+http://oruk.online/series/039345276/199281357/55c2471d-b76d-49d7-a4d0-e9005cb052a1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Reis S8 E43" tvg-logo="https://image.tmdb.org/t/p/w400/fSfFDrI9lV2NpzuS42aUfC89Dso.jpg" group-title="SÉRIES",- Reis S8 E43
+http://oruk.online/series/039345276/199281357/29e9709e-1e9e-4735-9f59-d705e30e3219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Um Pouco de Luz do Sol S1 E27" tvg-logo="https://image.tmdb.org/t/p/w400/2NGpzKjccjx1xbxuFCykaUHZvlz.jpg" group-title="SÉRIES",+ Um Pouco de Luz do Sol S1 E27
+http://oruk.online/series/039345276/199281357/5c1b123c-f358-4f04-8923-db5785d76881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The K2 S1 E14" tvg-logo="https://image.tmdb.org/t/p/w400/eGnjM9KuxjB5fM9LfufC4YMbPnT.jpg" group-title="SÉRIES",The K2 S1 E14
+http://oruk.online/series/039345276/199281357/ce7c995c-7eac-4545-97e4-4f54965f5115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor Tão Lindo S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/luQo0RH3uxUfCvHpJvftFdT4RdL.jpg" group-title="SÉRIES",Um Amor Tão Lindo S1 E4
+http://oruk.online/series/039345276/199281357/e08313bc-2790-4723-b1b4-07d696e6b585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Duas Garotas em Apuros S2 E17" tvg-logo="https://image.tmdb.org/t/p/w400/qulC4HS3uOuyZWsY7H74VUFCZ3w.jpg" group-title="SÉRIES",+ Duas Garotas em Apuros S2 E17
+http://oruk.online/series/039345276/199281357/8afea1cc-f309-4467-ab90-155eec10dab7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ A Grande Família do Alasca S4 E8" tvg-logo="https://image.tmdb.org/t/p/w400/kCjLrWdgRqGqjQsOY5QYUfcAxyA.jpg" group-title="SÉRIES",+ A Grande Família do Alasca S4 E8
+http://oruk.online/series/039345276/199281357/0ff2c5a4-73fe-4531-a31e-fceecc92a877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Como Funciona o Universo S5 E6" tvg-logo="https://image.tmdb.org/t/p/w400/sTjbmbsRorlAbgx75Q08hufcl1W.jpg" group-title="SÉRIES",+ Como Funciona o Universo S5 E6
+http://oruk.online/series/039345276/199281357/25140e38-f897-4983-8307-17a3d530d373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ 24 Horas S9 E5" tvg-logo="https://image.tmdb.org/t/p/w400/eDtvSSYVjJUfCk5NcauyYAGULX7.jpg" group-title="SÉRIES",+ 24 Horas S9 E5
+http://oruk.online/series/039345276/199281357/ba01a8a2-c94c-4b26-b0c3-5f9fb9229c23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Charmed: Nova Geração S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/hXYd5zLBZ4mOufCQGbgUxH7wD6I.jpg" group-title="SÉRIES",+ Charmed: Nova Geração S1 E8
+http://oruk.online/series/039345276/199281357/52a489f5-7f0f-464d-8b0b-609595f573eb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ A Casa Harper S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/t7wrzLgPDuFcqsyJryOsgDAziUj.jpg" group-title="SÉRIES",+ A Casa Harper S1 E10
+http://oruk.online/series/039345276/199281357/cc6ce109-d820-450a-ac3f-ef1ce72ae67a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Chesapeake Shores S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/YufCBveQLrOiCDK7uJSQivTmH4.jpg" group-title="SÉRIES",+ Chesapeake Shores S1 E9
+http://oruk.online/series/039345276/199281357/84513448-7bdf-4bc5-9b92-e3b879b566b6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Contigo, Guerrero S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/744Rv0b9eXPc6eyGGXUepGc5UfC.jpg" group-title="SÉRIES",+ Contigo, Guerrero S1 E4
+http://oruk.online/series/039345276/199281357/c4c26fb0-928b-4dde-ae9a-4e5974bf4e46.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ BE@RBRICK S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/eXAtnBPH5ufCEsmTJoj2Fl0ONjx.jpg" group-title="SÉRIES",+ BE@RBRICK S1 E8
+http://oruk.online/series/039345276/199281357/62b0d4f7-777d-4810-9072-dcf413dfb9cd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Dead like me: a morte lhe cai bem S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/ufc7DutCfXoLIn2eMN8VW4kSjax.jpg" group-title="SÉRIES",+ Dead like me: a morte lhe cai bem S2 E14
+http://oruk.online/series/039345276/199281357/0c31c0bf-dd9c-4cf3-93f8-6d055c5b9d8b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ 8 Regrinhas Básicas... para Namorar Minhas Filhas Adolescentes S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/vX3jZespnFfhfhJixjhaiR9kgdO.jpg" group-title="SÉRIES",+ 8 Regrinhas Básicas... para Namorar Minhas Filhas Adolescentes S2 E12
+http://oruk.online/series/039345276/199281357/ca79c1cf-68eb-4d4d-8bbe-8c5b45089b55.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Abbott Elementary S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/ru5EvS134BqrUFc806IrhauDqgh.jpg" group-title="SÉRIES",+ Abbott Elementary S2 E10
+http://oruk.online/series/039345276/199281357/6d595efc-784a-4d80-9541-b59257252f33.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ American Horror Story S5 E10" tvg-logo="https://image.tmdb.org/t/p/w400/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg" group-title="SÉRIES",+ American Horror Story S5 E10
+http://oruk.online/series/039345276/199281357/b5aed3c9-9110-4a08-b460-b2a95adb869e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ American Horror Story S9 E6" tvg-logo="https://image.tmdb.org/t/p/w400/aO425RdlTaczZQ2fV7ivp3UfCih.jpg" group-title="SÉRIES",+ American Horror Story S9 E6
+http://oruk.online/series/039345276/199281357/3af1f07f-f888-4b8a-a9ab-d1555f9cfcad.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Crimes do Colarinho Branco S5 E2" tvg-logo="https://image.tmdb.org/t/p/w400/85lhH5rtXTHRT2GjiUfCzLWbnQd.jpg" group-title="SÉRIES",+ Crimes do Colarinho Branco S5 E2
+http://oruk.online/series/039345276/199281357/096ced89-6f00-4c91-aa15-e84acb842c66.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Abbott Elementary S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/ru5EvS134BqrUFc806IrhauDqgh.jpg" group-title="SÉRIES",+ Abbott Elementary S2 E10
+http://oruk.online/series/039345276/199281357/37de9087-2326-453f-925e-9faf7bbbae2b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Life & Beth S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/niOI3q2ZfF0xvDWgjfj6ReufCMd.jpg" group-title="SÉRIES",+ Life & Beth S1 E7
+http://oruk.online/series/039345276/199281357/1c1224b9-54d4-465d-ba30-cbaa51d78916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ O Rei da TV S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/pFE4tQgONCrVuFc1rw2KgROtW2s.jpg" group-title="SÉRIES",+ O Rei da TV S2 E1
+http://oruk.online/series/039345276/199281357/55498aab-2633-45fd-be14-cdcf3871ab85.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Os Simpsons S22 E6" tvg-logo="https://image.tmdb.org/t/p/w400/5XFcefnsOYdpLgrWw48oxfujUfc.jpg" group-title="SÉRIES",+ Os Simpsons S22 E6
+http://oruk.online/series/039345276/199281357/90a21aba-fb8a-46b9-8bfe-2d0f7a3255a5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Agente K.C S3 E18" tvg-logo="https://image.tmdb.org/t/p/w400/AfDwbmivoGDcpq31G7wJ2ufC5Tv.jpg" group-title="SÉRIES",+ Agente K.C S3 E18
+http://oruk.online/series/039345276/199281357/22058371-ce5e-4d4f-9fb2-f996d4517daf.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esportes pelo Mundo S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/A8ukbOysvG0j2Yb7Ih6ISMxTB6x.jpg" group-title="SÉRIES",+ Esportes pelo Mundo S1 E1
+http://oruk.online/series/039345276/199281357/ba34380f-9384-4151-8695-8bd54044289e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esportes pelo Mundo S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/uhvvtEOCjC6HPn0rptigAUPCMsq.jpg" group-title="SÉRIES",+ Esportes pelo Mundo S1 E2
+http://oruk.online/series/039345276/199281357/089ba51d-2bcc-4b83-99c5-63ddf039551f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esportes pelo Mundo S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/qfGJB4xucs1cRXICQUv3g4Uq4aS.jpg" group-title="SÉRIES",+ Esportes pelo Mundo S1 E3
+http://oruk.online/series/039345276/199281357/5a95f525-57a7-44f6-812e-6c438a7d3151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esportes pelo Mundo S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/ziPPUoBbwYnM5KqwKltowhW9VNy.jpg" group-title="SÉRIES",+ Esportes pelo Mundo S1 E4
+http://oruk.online/series/039345276/199281357/43546dbd-5946-4771-bc1f-d6c5273405f0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esportes pelo Mundo S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/PQWGu0UK2wrSO3u7ibUDh1pEye.jpg" group-title="SÉRIES",+ Esportes pelo Mundo S1 E5
+http://oruk.online/series/039345276/199281357/0facd5b1-e47f-4453-9e30-e79c325af701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esportes pelo Mundo S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/7oXWDuMf4ooVuXSJpo0w3aVirXD.jpg" group-title="SÉRIES",+ Esportes pelo Mundo S1 E6
+http://oruk.online/series/039345276/199281357/d2e2fc1a-8739-4d40-89af-b91a7ae9b6d8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ The Resident S6 E12" tvg-logo="https://image.tmdb.org/t/p/w400/kuFcMJxoQNns6FXYOSS1CAlnqZ7.jpg" group-title="SÉRIES",+ The Resident S6 E12
+http://oruk.online/series/039345276/199281357/bbfc8b2b-6419-4c3d-9be2-6c2f17aeb9b9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ The Strain S4 E7" tvg-logo="https://image.tmdb.org/t/p/w400/9ufGuEUFC8v64sf7g2XhmTL0vRU.jpg" group-title="SÉRIES",+ The Strain S4 E7
+http://oruk.online/series/039345276/199281357/f7fb8cc7-9513-462f-9559-1ada603d7fe6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ This Is Us S5 E12" tvg-logo="https://image.tmdb.org/t/p/w400/3MufCh2AUamUP8ESZNzMOVqsZTh.jpg" group-title="SÉRIES",+ This Is Us S5 E12
+http://oruk.online/series/039345276/199281357/e92041c2-491c-4a1a-b2c3-adcf62c1d535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Acusado S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/9Hozpu3W2UFCxDEsrYiSY4YfmYj.jpg" group-title="SÉRIES",+ Acusado S1 E13
+http://oruk.online/series/039345276/199281357/37a48151-57ac-44f5-9aa5-1ff5eb8a2900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ American Horror Story S5 E10" tvg-logo="https://image.tmdb.org/t/p/w400/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg" group-title="SÉRIES",+ American Horror Story S5 E10
+http://oruk.online/series/039345276/199281357/233bc13e-b1a6-4bb6-a0c0-f7f660105c1e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ American Horror Story S9 E6" tvg-logo="https://image.tmdb.org/t/p/w400/aO425RdlTaczZQ2fV7ivp3UfCih.jpg" group-title="SÉRIES",+ American Horror Story S9 E6
+http://oruk.online/series/039345276/199281357/f6917ee8-8847-4f7b-8eca-da981e726079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ CSI: Vegas S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/aC6itufcH31L6E7HLg4oNo1kaD7.jpg" group-title="SÉRIES",+ CSI: Vegas S2 E6
+http://oruk.online/series/039345276/199281357/127e142e-9869-4b48-ac3c-b2ca4ad5c066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Geordie Shore S5 E2" tvg-logo="https://image.tmdb.org/t/p/w400/70sUFc5uLolc1kP33lSijRc7Who.jpg" group-title="SÉRIES",+ Geordie Shore S5 E2
+http://oruk.online/series/039345276/199281357/321e9b9f-b4db-4fca-a98f-0332baf05afe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ NCIS: Los Angeles S7 E18" tvg-logo="https://image.tmdb.org/t/p/w400/sYAuFCq8i0FfeHLfezhk5gpvciy.jpg" group-title="SÉRIES",+ NCIS: Los Angeles S7 E18
+http://oruk.online/series/039345276/199281357/b061b74b-ec5b-4d0f-a9cc-fc823392e332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Yellowstone S4 E2" tvg-logo="https://image.tmdb.org/t/p/w400/dfg3wQUFC8maWeKWJd8OOuZmXES.jpg" group-title="SÉRIES",+ Yellowstone S4 E2
+http://oruk.online/series/039345276/199281357/2fa8c8a6-fe8a-4bb9-a77b-a81644bb0df9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Go! Viva do seu Jeito S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/pTaaJRUKHHnPVUFCnvvp2diO1VW.jpg" group-title="SÉRIES",+ Go! Viva do seu Jeito S1 E6
+http://oruk.online/series/039345276/199281357/24e30824-51bc-4bd8-84bd-f1d09e8529f5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Crimes do Colarinho Branco S5 E2" tvg-logo="https://image.tmdb.org/t/p/w400/85lhH5rtXTHRT2GjiUfCzLWbnQd.jpg" group-title="SÉRIES",+ Crimes do Colarinho Branco S5 E2
+http://oruk.online/series/039345276/199281357/27c9362b-5e39-488c-8aaa-6baec620521c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Movidos a Diesel S6 E2" tvg-logo="https://image.tmdb.org/t/p/w400/xRbNxl82Lt5GMHGJkuFCoG4bRit.jpg" group-title="SÉRIES",+ Movidos a Diesel S6 E2
+http://oruk.online/series/039345276/199281357/d4d4a948-a771-4905-a2e2-55e1c2605c4d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Fight Night: The Million Dollar Heist S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/9J4XqvTFlodmhUFcndwgUxVa45g.jpg" group-title="SÉRIES",+ Fight Night: The Million Dollar Heist S1 E6
+http://oruk.online/series/039345276/199281357/778adaa3-360c-4689-a242-ff11306127d3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Yabba-Dabba Dinossauros S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/8kuFczck8N7vHVQMARMtr8YgXAm.jpg" group-title="SÉRIES",+ Yabba-Dabba Dinossauros S1 E13
+http://oruk.online/series/039345276/199281357/02adac87-4a1e-4184-b61a-bd571c5f5a5e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Mar Branco S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/kJWUfc4vC37T8VqVWRWYJBqbakd.jpg" group-title="SÉRIES",+ Mar Branco S3 E1
+http://oruk.online/series/039345276/199281357/ea58f749-e58f-4e4a-b813-62689e8e7bd7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Reis S8 E43" tvg-logo="https://image.tmdb.org/t/p/w400/fSfFDrI9lV2NpzuS42aUfC89Dso.jpg" group-title="SÉRIES",+ Reis S8 E43
+http://oruk.online/series/039345276/199281357/74d6a9d0-108a-4edb-aacc-37f8cbb89397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Kyle XY S2 E17" tvg-logo="https://image.tmdb.org/t/p/w400/t7UoffDW8hRenGJSUFCUSuGFaDm.jpg" group-title="SÉRIES",+ Kyle XY S2 E17
+http://oruk.online/series/039345276/199281357/7adc45f4-e357-4594-881d-428486ba8065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ O Clube das Coisas Mágicas S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/f2VdXvNawwAeyo31U5oNUfcAApH.jpg" group-title="SÉRIES",+ O Clube das Coisas Mágicas S1 E13
+http://oruk.online/series/039345276/199281357/26a8846e-cda7-4efa-bc60-a282df57c7b2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Life & Beth S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/niOI3q2ZfF0xvDWgjfj6ReufCMd.jpg" group-title="SÉRIES",+ Life & Beth S1 E7
+http://oruk.online/series/039345276/199281357/f2d61cdd-f3a3-40ae-ae59-8ad2c09a6bd4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ One Piece S6 E188" tvg-logo="https://image.tmdb.org/t/p/w400/nxHEY1ngrrTtuFcoSsIQTeKLGrm.jpg" group-title="SÉRIES",+ One Piece S6 E188
+http://oruk.online/series/039345276/199281357/ed653744-93a2-4180-bc36-35d8ce8df6c8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ O Rei da TV S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/pFE4tQgONCrVuFc1rw2KgROtW2s.jpg" group-title="SÉRIES",+ O Rei da TV S2 E1
+http://oruk.online/series/039345276/199281357/1a1591d8-0052-4d35-b0ae-be9fce257a02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Quantum Leap: Contratempos S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/yUzvs88pmkXDDUfCA3xQyD5Lji1.jpg" group-title="SÉRIES",+ Quantum Leap: Contratempos S2 E2
+http://oruk.online/series/039345276/199281357/a0121bed-afe8-4365-b762-a8f6551c2e75.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ The Strain S4 E7" tvg-logo="https://image.tmdb.org/t/p/w400/9ufGuEUFC8v64sf7g2XhmTL0vRU.jpg" group-title="SÉRIES",+ The Strain S4 E7
+http://oruk.online/series/039345276/199281357/ffb28718-9d14-4c9a-b4e3-3189a86b0575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Reprovado S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/z1wcJkKBxRoeLQ5GOUfcZLf72VE.jpg" group-title="SÉRIES",+ Reprovado S1 E4
+http://oruk.online/series/039345276/199281357/7aa5980e-9b33-4831-99fa-cacfc38dd048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Seinfeld S9 E15" tvg-logo="https://image.tmdb.org/t/p/w400/x8ufcNcNXjLijD1g1YnZPPhLoLr.jpg" group-title="SÉRIES",+ Seinfeld S9 E15
+http://oruk.online/series/039345276/199281357/fbac0558-c63a-4d40-a0f9-03eddff08de7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Tales by Light S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/fGxqC9gZf6Dny1GUfcIyN6tbxi6.jpg" group-title="SÉRIES",+ Tales by Light S2 E1
+http://oruk.online/series/039345276/199281357/e79631ef-d406-4aaf-969d-698c93cf1c77.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Lista Negra S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/a5NjJHUfCEC2JywOdzZvYlRz2FD.jpg" group-title="SÉRIES",+ Lista Negra S2 E2
+http://oruk.online/series/039345276/199281357/dd7f4ea5-8b38-42d9-a811-42a73d79c127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Lista Negra S8 E19" tvg-logo="https://image.tmdb.org/t/p/w400/1VuOoP6hBzOLTJ5cpz78kcauFcq.jpg" group-title="SÉRIES",+ Lista Negra S8 E19
+http://oruk.online/series/039345276/199281357/3a1a059d-8a1e-4753-b012-ae640fec5e1d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ The Eddy S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/6aP7nnESPnJSCMiHIGrlWmwxjRb.jpg" group-title="SÉRIES",+ The Eddy S1 E8
+http://oruk.online/series/039345276/199281357/14eeda4a-ee56-4da0-afec-f972be7ebefb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ The Sinner S4 E7" tvg-logo="https://image.tmdb.org/t/p/w400/2IBfBizPWqluFczRJboQoQrhjfF.jpg" group-title="SÉRIES",+ The Sinner S4 E7
+http://oruk.online/series/039345276/199281357/a79348b1-23fe-440b-97e0-31c633d10ec5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Yellowstone S4 E2" tvg-logo="https://image.tmdb.org/t/p/w400/dfg3wQUFC8maWeKWJd8OOuZmXES.jpg" group-title="SÉRIES",+ Yellowstone S4 E2
+http://oruk.online/series/039345276/199281357/1e43fd8f-7254-4c4d-bb3f-937e149653ab.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ A Escrava Isaura S1 E144" tvg-logo="https://image.tmdb.org/t/p/w400/t6oYsuqfR4imufCBElsToHVf0B6.jpg" group-title="SÉRIES",+ A Escrava Isaura S1 E144
+http://oruk.online/series/039345276/199281357/f066fcd0-1c6b-4aac-a3a2-28d460ca0926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ A Promessa S1 E24" tvg-logo="https://image.tmdb.org/t/p/w400/d9lkCCgb5cOuWCUUFcHgUiV20bi.jpg" group-title="SÉRIES",+ A Promessa S1 E24
+http://oruk.online/series/039345276/199281357/204ab35a-2720-47ef-a058-b3a7c978b3e4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ A Friend of the Family S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/jkdlNlqMfopnelQXqHybNGUFcNz.jpg" group-title="SÉRIES",+ A Friend of the Family S1 E6
+http://oruk.online/series/039345276/199281357/d797d63f-215d-4d98-b457-8a9cae224f66.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Pão-Pão, Beijo-Beijo S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/jQYK8sijnYXZufckuP2DQfYRSCL.jpg" group-title="SÉRIES",+ Pão-Pão, Beijo-Beijo S1 E5
+http://oruk.online/series/039345276/199281357/01b4063e-6d5d-4c47-9dad-d3ae5853c2d5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Esmeralda S1 E66" tvg-logo="https://image.tmdb.org/t/p/w400/hR7Ub0WSY9ov3TSLrxboYQUFcns.jpg" group-title="SÉRIES",+ Esmeralda S1 E66
+http://oruk.online/series/039345276/199281357/82b5dabb-895e-4a6f-9692-d4498d4e5c1b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Guerra dos Sexos S1 E143" tvg-logo="https://image.tmdb.org/t/p/w400/dUrxFX1LUiPUlJUFUFCOYhtMQ2T.jpg" group-title="SÉRIES",+ Guerra dos Sexos S1 E143
+http://oruk.online/series/039345276/199281357/120c9071-0a6b-450e-ba65-29710057bd4f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ História de Amor S1 E64" tvg-logo="https://image.tmdb.org/t/p/w400/uOCYGyhHfHiuFC9NsZdssG0SRQg.jpg" group-title="SÉRIES",+ História de Amor S1 E64
+http://oruk.online/series/039345276/199281357/fef1d127-bd01-4759-9317-513bf3885a93.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Quatro por Quatro S1 E121" tvg-logo="https://image.tmdb.org/t/p/w400/99FtufCKxetxNM20GQPT9VAOQlf.jpg" group-title="SÉRIES",+ Quatro por Quatro S1 E121
+http://oruk.online/series/039345276/199281357/97bda312-f783-4859-b9e8-b2c08f70053b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Quem Ama Cuida S1 E82" tvg-logo="https://image.tmdb.org/t/p/w400/wKQyNfoBvcwvkJjuUfCqKECSLIe.jpg" group-title="SÉRIES",+ Quem Ama Cuida S1 E82
+http://oruk.online/series/039345276/199281357/7128b0f0-98c9-41a8-b818-f8951945aedb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Belgravia S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/ayUabn7M8ElCUfCGye6ojT06AoY.jpg" group-title="SÉRIES",+ Belgravia S1 E4
+http://oruk.online/series/039345276/199281357/5dccdf4a-0dea-44e6-adba-e3bc3fbd31ce.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Vale Tudo S1 E132" tvg-logo="https://image.tmdb.org/t/p/w400/tts931sR9f2KTn8qducufcZzMyX.jpg" group-title="SÉRIES",+ Vale Tudo S1 E132
+http://oruk.online/series/039345276/199281357/634d72c9-ac5d-492e-b1f9-9aa136ff7af8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Chicago Fire: Heróis Contra o Fogo S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/cvufcTVedvPhhraXg0KSVD6QTXk.jpg" group-title="SÉRIES",+ Chicago Fire: Heróis Contra o Fogo S1 E1
+http://oruk.online/series/039345276/199281357/e5a03753-c8fb-4cf0-888c-a2572903b11e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Violetta S2 E64" tvg-logo="https://image.tmdb.org/t/p/w400/qsn4QdxoRwUFCUSYcZ8O7j6lhT8.jpg" group-title="SÉRIES",+ Violetta S2 E64
+http://oruk.online/series/039345276/199281357/c8ed5017-507a-48dc-8d59-7f99956e7629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Galera do Barulho S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/i8A98njjIcO7JE9UfcS92z97W4Q.jpg" group-title="SÉRIES",+ Galera do Barulho S2 E8
+http://oruk.online/series/039345276/199281357/7ed70412-ef0f-48dc-9c37-4283258790c2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Welcome to Demon School! Iruma-kun S3 E19" tvg-logo="https://image.tmdb.org/t/p/w400/uCHuFChyx7WYE1VsIwOCi4IQ5zQ.jpg" group-title="SÉRIES",- Welcome to Demon School! Iruma-kun S3 E19
+http://oruk.online/series/039345276/199281357/f8c49f35-8e36-4931-bcf6-9de26ea7d7f8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Harina S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/pqH138YTLgqqehfUFcODBefYk6g.jpg" group-title="SÉRIES",+ Harina S1 E7
+http://oruk.online/series/039345276/199281357/7372ca1c-d9bc-4cc4-9ae8-19dd9c2e2129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Keep Your Hands Off Eizouken! S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/lwTKuzbg3unM9KpybespNAW8hx0.jpg" group-title="SÉRIES",- Keep Your Hands Off Eizouken! S1 E7
+http://oruk.online/series/039345276/199281357/61b606cd-f395-4869-8bd4-fe3ec2bb72f8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Lupin III S1 E16" tvg-logo="https://image.tmdb.org/t/p/w400/yJk5vc4FveKf9ySCFlzlsUfcDqY.jpg" group-title="SÉRIES",- Lupin III S1 E16
+http://oruk.online/series/039345276/199281357/0732f735-7d23-4079-ba08-648823541cf8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Mistérios Animais S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/gtnaMpfq2jtb5Ya3eMnTpVKufcX.jpg" group-title="SÉRIES",- Mistérios Animais S1 E2
+http://oruk.online/series/039345276/199281357/6eae070a-4c4f-4e06-886e-e207551e738f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Jack Ryan de Tom Clancy S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/ojSDbVIg2SvlBguormA5UFCCkre.jpg" group-title="SÉRIES",+ Jack Ryan de Tom Clancy S3 E2
+http://oruk.online/series/039345276/199281357/b500c245-166a-48c0-888e-ccdbdf726f7a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- My Hero Academia S3 E8" tvg-logo="https://image.tmdb.org/t/p/w400/glltUgXwP24uFcBmPhfrKaesI08.jpg" group-title="SÉRIES",- My Hero Academia S3 E8
+http://oruk.online/series/039345276/199281357/f1876b50-a352-4b0d-869f-1af15f3b1370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- One Piece S6 E188" tvg-logo="https://image.tmdb.org/t/p/w400/nxHEY1ngrrTtuFcoSsIQTeKLGrm.jpg" group-title="SÉRIES",- One Piece S6 E188
+http://oruk.online/series/039345276/199281357/4248eb38-80f7-493f-8160-7ef73f9d85ea.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- The Seven Deadly Sins S3 E10" tvg-logo="https://image.tmdb.org/t/p/w400/14P8i71yiEBKmvKPKLwoxaUfcNv.jpg" group-title="SÉRIES",- The Seven Deadly Sins S3 E10
+http://oruk.online/series/039345276/199281357/73539e38-6bbf-4f95-825d-48491c05dca8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Welcome to Demon School! Iruma-kun S3 E19" tvg-logo="https://image.tmdb.org/t/p/w400/uCHuFChyx7WYE1VsIwOCi4IQ5zQ.jpg" group-title="SÉRIES",- Welcome to Demon School! Iruma-kun S3 E19
+http://oruk.online/series/039345276/199281357/30659aaf-b721-4e24-afb3-7214e47f078b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Yu-Gi-Oh! VRAINS S1 E110" tvg-logo="https://image.tmdb.org/t/p/w400/4SlyNY2ghPwK1iSUFc7jIufDAqK.jpg" group-title="SÉRIES",- Yu-Gi-Oh! VRAINS S1 E110
+http://oruk.online/series/039345276/199281357/4c3ce0a6-2424-4270-8a86-3d4d5557eeff.mp4
+#EXTINF:-1 tvg-id="" tvg-name="氪金男友 S1 E19" tvg-logo="https://image.tmdb.org/t/p/w400/ebqM3NRMk5lrdWXDtLQ5LkAufcB.jpg" group-title="SÉRIES",氪金男友 S1 E19
+http://oruk.online/series/039345276/199281357/856eb996-be01-4b59-baae-6f4f2cc1ef25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="氪金男友 S1 E24" tvg-logo="https://image.tmdb.org/t/p/w400/2zdTmQZsedgccL0e7zYufcfYCoh.jpg" group-title="SÉRIES",氪金男友 S1 E24
+http://oruk.online/series/039345276/199281357/8358873c-b02e-42a4-abd2-1b026caec398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="- Hands off: Sawaranaide Kotesashi-kun S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/leSpnPjwKhSk2gcPnLD3iup1yCc.jpg" group-title="SÉRIES",- Hands off: Sawaranaide Kotesashi-kun S1 E5
+http://oruk.online/series/039345276/199281357/1f82da61-43e5-46cf-b26e-1b997f394697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Células de Yumi S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/vLnPitCd0vUfcPQHavXz2qxNdcw.jpg" group-title="SÉRIES",As Células de Yumi S2 E13
+http://oruk.online/series/039345276/199281357/4857e74c-5964-4963-b565-5f4fc8be0356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divorciados S1 E47" tvg-logo="https://image.tmdb.org/t/p/w400/wodCiOCYxfB5fQ3yzCp3ufCSGxc.jpg" group-title="SÉRIES",Divorciados S1 E47
+http://oruk.online/series/039345276/199281357/741f0ccf-498e-4861-ada9-47da8ed329ad.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Inocente S1 E18" tvg-logo="https://image.tmdb.org/t/p/w400/ySil8JZKMufCO3I5BaP7rvZCvQO.jpg" group-title="SÉRIES",O Homem Inocente S1 E18
+http://oruk.online/series/039345276/199281357/9e38effc-3716-42b2-8878-74b59b3129fd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ O Senhor dos Anéis: Os Anéis de Poder S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/aMrrsn8aIK4mNEidCFXuFCHDTKZ.jpg" group-title="SÉRIES",+ O Senhor dos Anéis: Os Anéis de Poder S2 E5
+http://oruk.online/series/039345276/199281357/91860358-c852-437f-b621-ea2271643bb5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Pessoa de Interesse S3 E23" tvg-logo="https://image.tmdb.org/t/p/w400/zj6wrCYzwA5B6IufCL7nJaFZryr.jpg" group-title="SÉRIES",+ Pessoa de Interesse S3 E23
+http://oruk.online/series/039345276/199281357/d517679f-f1af-4d4c-8b6a-ccd7bafa6840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Homens de Terno S8 E1" tvg-logo="https://image.tmdb.org/t/p/w400/irMbpaKsh9ZMUfc1gfFxUQVUsOV.jpg" group-title="SÉRIES",+ Homens de Terno S8 E1
+http://oruk.online/series/039345276/199281357/6a569feb-5c52-4a97-894e-a10b10c2ffca.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinóquio S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/cUfCz3xKcnR7tNLMEJPVQduuf5C.jpg" group-title="SÉRIES",Pinóquio S1 E6
+http://oruk.online/series/039345276/199281357/e6da96c7-1699-4613-9214-5f2e0b73ccf4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voltando pro meu Corpo S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/xUfCvbItQmQS0LVmh2uLgv1OyKv.jpg" group-title="SÉRIES",Voltando pro meu Corpo S1 E8
+http://oruk.online/series/039345276/199281357/8108a67e-cf18-4c96-b70d-98225c9ee072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Um Maluco na TV S7 E8" tvg-logo="https://image.tmdb.org/t/p/w400/k9aL5GR0Z5R8UfCsVK2tMXvKARY.jpg" group-title="SÉRIES",+ Um Maluco na TV S7 E8
+http://oruk.online/series/039345276/199281357/255a657c-bf9e-4381-b2ba-89a12aad786c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Robin Hood S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/AtrmCKPdDKD6ufCSIjeXRViUhWG.jpg" group-title="SÉRIES",+ Robin Hood S1 E2
+http://oruk.online/series/039345276/199281357/6289421d-bb69-4cd5-a03c-02e71fa8e16a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Upright S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/sn3A2y5ufCV7yxSI9e0M2LBtlJS.jpg" group-title="SÉRIES",+ Upright S2 E4
+http://oruk.online/series/039345276/199281357/e1ffdb76-9f46-4ef4-8cd5-a13f56df0c39.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Aqueles Olhos Negros S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/iMjkZEbYqHJIufCNy1LqXOfabMu.jpg" group-title="SÉRIES",+ Aqueles Olhos Negros S2 E5
+http://oruk.online/series/039345276/199281357/4cc587e6-28cc-411e-8214-bbe2b8bca153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Arcane S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/3mhMhwHlZQQiB2otufCLZteRPMZ.jpg" group-title="SÉRIES",+ Arcane S2 E5
+http://oruk.online/series/039345276/199281357/564f15c3-e8be-463a-b160-2dba9215cd65.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Asterix e Obelix: O Combate dos Chefes S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/z5oy1f1prjCByJ8yRqEoHlLkfmO.jpg" group-title="SÉRIES",+ Asterix e Obelix: O Combate dos Chefes S1 E1
+http://oruk.online/series/039345276/199281357/71f6efad-85f1-41b0-983a-3db68fab967d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Asterix e Obelix: O Combate dos Chefes S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/r3pwxf7yFoxEnPXfahbCVIziCCR.jpg" group-title="SÉRIES",+ Asterix e Obelix: O Combate dos Chefes S1 E2
+http://oruk.online/series/039345276/199281357/b2c3b026-2990-4a0e-ae33-ef5e3fb1647f.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Asterix e Obelix: O Combate dos Chefes S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/nkycX30qB20mxW6Pm0f6MU3zuBy.jpg" group-title="SÉRIES",+ Asterix e Obelix: O Combate dos Chefes S1 E3
+http://oruk.online/series/039345276/199281357/a87fd709-d571-493f-9447-618af875f580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Asterix e Obelix: O Combate dos Chefes S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/kEB58UQ10qikeVH1zrUHHBRa4jE.jpg" group-title="SÉRIES",+ Asterix e Obelix: O Combate dos Chefes S1 E4
+http://oruk.online/series/039345276/199281357/4fd9af08-34a8-4df5-b269-50bd4790ced8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Asterix e Obelix: O Combate dos Chefes S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/2BFE4PN4AyEklT3E8fIBJJKcq1v.jpg" group-title="SÉRIES",+ Asterix e Obelix: O Combate dos Chefes S1 E5
+http://oruk.online/series/039345276/199281357/a3f66eee-c50b-4d6a-8aed-bf414c0395db.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Barbie: It Takes Two S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/xUt9Q2QAQaZ4AuWMUFCxBGn67aD.jpg" group-title="SÉRIES",+ Barbie: It Takes Two S1 E13
+http://oruk.online/series/039345276/199281357/9d934b4f-7d52-4392-ad3d-ec4069c3ef40.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Go! Viva do seu Jeito S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/pTaaJRUKHHnPVUFCnvvp2diO1VW.jpg" group-title="SÉRIES",+ Go! Viva do seu Jeito S1 E6
+http://oruk.online/series/039345276/199281357/c2cc781b-afc4-43ed-baa9-720d2f84b971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Grizzy e os Lemmings S3 E42" tvg-logo="https://image.tmdb.org/t/p/w400/iupYsSbaueYufC0g7QbNZUXT7wq.jpg" group-title="SÉRIES",+ Grizzy e os Lemmings S3 E42
+http://oruk.online/series/039345276/199281357/5202d65a-d83f-4e6c-aaae-004c3da656d1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Grizzy e os Lemmings S3 E50" tvg-logo="https://image.tmdb.org/t/p/w400/uFCrXk7hKwFZwy9KGuxV6R9IF6M.jpg" group-title="SÉRIES",+ Grizzy e os Lemmings S3 E50
+http://oruk.online/series/039345276/199281357/918a174f-6179-4e6d-bc11-5522bf5aba01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E1" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E1
+http://oruk.online/series/039345276/199281357/061aa0b8-dca7-490b-ae26-253eac5ee2da.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E2" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E2
+http://oruk.online/series/039345276/199281357/fa7ec052-bf1d-4643-8028-1f85128645df.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E3" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E3
+http://oruk.online/series/039345276/199281357/e02e27aa-73ba-40ba-b409-4a8c7473d416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E4" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E4
+http://oruk.online/series/039345276/199281357/f6649917-f7b3-4649-a001-3f8e64cebfb6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E5" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E5
+http://oruk.online/series/039345276/199281357/5ad3788e-894a-453a-8da6-db31f39e6671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E6" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E6
+http://oruk.online/series/039345276/199281357/5696ff96-c086-4657-927f-845d8f3e7b3d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E7" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E7
+http://oruk.online/series/039345276/199281357/a72b3c7b-0801-4809-81f5-8e2ee55f9e6b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E8" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E8
+http://oruk.online/series/039345276/199281357/df7cbb5e-3078-4a6a-bcf1-78bd4107672d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E9" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E9
+http://oruk.online/series/039345276/199281357/a94a545f-87a5-4e3c-b8ca-5c548a9b1426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E10" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E10
+http://oruk.online/series/039345276/199281357/4f260e0e-58de-4fdc-afa5-841a83ccc55c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E11" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E11
+http://oruk.online/series/039345276/199281357/41df0b20-5a0c-489c-b34a-2051b0034ba0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E12" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E12
+http://oruk.online/series/039345276/199281357/8f593e6f-fa41-4af7-80d4-9431f0fca0be.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E13" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E13
+http://oruk.online/series/039345276/199281357/12fedfb6-b77d-442a-b3ae-c3cc0a3df28b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E14" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E14
+http://oruk.online/series/039345276/199281357/42eb5415-a396-4718-9bbf-fb82448803aa.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E15" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E15
+http://oruk.online/series/039345276/199281357/dfb6eca5-2215-4347-b219-8c9498df3d80.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E16" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E16
+http://oruk.online/series/039345276/199281357/a540a39b-e4d4-4102-a573-5bcde943bad1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E17" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E17
+http://oruk.online/series/039345276/199281357/71b4f2b1-4d7b-442a-b3fe-888104f1538b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E18" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E18
+http://oruk.online/series/039345276/199281357/e1a35522-4bd3-43a4-a9e7-f1aea105b43c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E19" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E19
+http://oruk.online/series/039345276/199281357/c6aeb0c1-e00e-4ce6-8d3a-185e3235001b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S1 E20" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S1 E20
+http://oruk.online/series/039345276/199281357/041e48c8-ec29-41d3-8098-0e43d8da2726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E1" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E1
+http://oruk.online/series/039345276/199281357/5382f662-4fdf-4197-a324-9dedb1a37dd8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E2" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E2
+http://oruk.online/series/039345276/199281357/e848b84f-40c2-4087-a69b-f79dcf8bceca.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E3" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E3
+http://oruk.online/series/039345276/199281357/79c047ba-89cb-48ce-b384-9864936c0eac.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E4" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E4
+http://oruk.online/series/039345276/199281357/0e2b2ad5-8185-4e62-8607-87634a9fa51b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E5" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E5
+http://oruk.online/series/039345276/199281357/8e9497d4-b02e-4b12-9029-fcde96775953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E6" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E6
+http://oruk.online/series/039345276/199281357/f4256501-8b90-4dba-919b-9cd662741c69.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E7" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E7
+http://oruk.online/series/039345276/199281357/0a2f8274-6577-482c-8cc3-00ccace5cc35.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E8" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E8
+http://oruk.online/series/039345276/199281357/d10a1510-3848-4e39-9c1d-f610ba6af263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E9" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E9
+http://oruk.online/series/039345276/199281357/aea6f8c0-8f6c-49e8-9ebf-dc84ef9b0fc5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E10" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E10
+http://oruk.online/series/039345276/199281357/a06e1552-5315-4e87-bf64-922e281d430a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E11" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E11
+http://oruk.online/series/039345276/199281357/0f16261f-b169-40df-b312-b3380f981f5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E12" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E12
+http://oruk.online/series/039345276/199281357/fc59ee8a-c5bc-4271-a764-10721070eeda.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E13" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E13
+http://oruk.online/series/039345276/199281357/7a05b77c-3de2-4f69-9d12-690dd9cc7c94.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E14" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E14
+http://oruk.online/series/039345276/199281357/f7e9ae24-4c67-4036-85ed-28a6a1a6e38b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E15" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E15
+http://oruk.online/series/039345276/199281357/55f59313-5124-4997-b3b4-a12e7e467b73.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E16" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E16
+http://oruk.online/series/039345276/199281357/151124a1-9a7d-4b41-81ba-0820754854ad.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E17" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E17
+http://oruk.online/series/039345276/199281357/6438b274-43d4-4006-930d-fbaed9118178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E18" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E18
+http://oruk.online/series/039345276/199281357/67f2f764-ab96-4ff9-88b3-4e61a1de25d7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E19" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E19
+http://oruk.online/series/039345276/199281357/5928c797-a99a-46c7-8ed4-f679a42ef878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E20" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E20
+http://oruk.online/series/039345276/199281357/39c95cfb-8ce7-478b-887a-eb1b262d7759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E21" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E21
+http://oruk.online/series/039345276/199281357/8d0b4ef9-25ab-49ef-b7e9-36b60d43d85b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E22" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E22
+http://oruk.online/series/039345276/199281357/6be6df76-18a3-485a-9b5e-4271a09725e0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E23" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E23
+http://oruk.online/series/039345276/199281357/1de696c3-9ad1-455b-afe3-751b1587b47b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E24" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E24
+http://oruk.online/series/039345276/199281357/eb47beff-961f-4c15-835c-6b603ef0b92e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E25" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E25
+http://oruk.online/series/039345276/199281357/3d8c2cfa-57cb-4005-a320-7f94bbd05f47.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E26" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E26
+http://oruk.online/series/039345276/199281357/7ec14fde-0771-4032-9919-7d61816ff339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E27" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E27
+http://oruk.online/series/039345276/199281357/8ccbb45b-de64-47de-9fe5-e9656ce61a76.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Linha de Combate S2 E28" tvg-logo="" group-title="SÉRIES",+ Linha de Combate S2 E28
+http://oruk.online/series/039345276/199281357/81732db9-13d2-451b-951c-aad6600936fc.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Lista Negra S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/a5NjJHUfCEC2JywOdzZvYlRz2FD.jpg" group-title="SÉRIES",+ Lista Negra S2 E2
+http://oruk.online/series/039345276/199281357/ebca7559-078c-4f2e-9dc4-ef02860ee24e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Lista Negra S8 E19" tvg-logo="https://image.tmdb.org/t/p/w400/1VuOoP6hBzOLTJ5cpz78kcauFcq.jpg" group-title="SÉRIES",+ Lista Negra S8 E19
+http://oruk.online/series/039345276/199281357/20c4b36d-0dbe-4e11-82b3-0eea13dde501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Mistérios Animais S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/gtnaMpfq2jtb5Ya3eMnTpVKufcX.jpg" group-title="SÉRIES",+ Mistérios Animais S1 E2
+http://oruk.online/series/039345276/199281357/59995003-cc37-439a-8a71-cfd2c9575528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Stranger Things S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg" group-title="SÉRIES",+ Stranger Things S1 E1
+http://oruk.online/series/039345276/199281357/3ccf0fbb-4921-4067-9cb8-084519ba2003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Abbott Elementary S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/ru5EvS134BqrUFc806IrhauDqgh.jpg" group-title="SÉRIES",+ Abbott Elementary S2 E10
+http://oruk.online/series/039345276/199281357/57cea96a-d129-471e-a074-af93a7ba27e5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Belgravia S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/ayUabn7M8ElCUfCGye6ojT06AoY.jpg" group-title="SÉRIES",+ Belgravia S1 E4
+http://oruk.online/series/039345276/199281357/46305319-2986-40a3-ba6a-89aabb128c41.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Charmed: Nova Geração S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/hXYd5zLBZ4mOufCQGbgUxH7wD6I.jpg" group-title="SÉRIES",+ Charmed: Nova Geração S1 E8
+http://oruk.online/series/039345276/199281357/6757c782-18f2-4f5c-b4ff-bb6fb1c60c78.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E1" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E1
+http://oruk.online/series/039345276/199281357/61a6c6e3-42cd-44ab-88d9-6de8f8dda93b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E2" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E2
+http://oruk.online/series/039345276/199281357/8b1e2b5f-eb47-4883-8dc1-bb5dcd7d5c89.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E3" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E3
+http://oruk.online/series/039345276/199281357/c0e85386-f827-4c9d-8e5d-75703b54cccd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E4" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E4
+http://oruk.online/series/039345276/199281357/726c5693-1d42-4227-bd15-9281b0483a56.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E5" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E5
+http://oruk.online/series/039345276/199281357/2332727c-0891-4300-bb25-c9e9ec46c98c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E6" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E6
+http://oruk.online/series/039345276/199281357/9ba19571-1146-4e7a-bd3c-696bc727ee56.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E7" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E7
+http://oruk.online/series/039345276/199281357/a14e342f-2e99-4226-b07c-cdc3c578d6c2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E8" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E8
+http://oruk.online/series/039345276/199281357/dfca5419-670b-4376-ae9e-bb0338520f25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E9" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E9
+http://oruk.online/series/039345276/199281357/cf7a5ea0-2dc9-4bd1-a35a-0b1481439872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E10" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E10
+http://oruk.online/series/039345276/199281357/357e0d31-4649-4195-8b28-a2ae07b73629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E11" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E11
+http://oruk.online/series/039345276/199281357/7bc3a90b-5d17-4a1f-866b-e1315f0862e0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E12" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E12
+http://oruk.online/series/039345276/199281357/ada0ecd0-83f5-4cbc-9971-ec072d3071f7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E13" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E13
+http://oruk.online/series/039345276/199281357/a5be43bd-5320-467a-ae15-179bea1bfe7c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E14" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E14
+http://oruk.online/series/039345276/199281357/e961b565-f9b2-4d87-88ab-0ae0933e16de.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E15" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E15
+http://oruk.online/series/039345276/199281357/59f4906a-e81c-4b9e-92fd-e0249c36f251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E16" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E16
+http://oruk.online/series/039345276/199281357/ff703823-7f6c-4dba-9df1-650fbbc61542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E17" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E17
+http://oruk.online/series/039345276/199281357/fdd4e42f-6141-4722-a2dc-4133ccefc8af.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E18" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E18
+http://oruk.online/series/039345276/199281357/647ed31f-90e6-4910-99aa-cf4867994539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E19" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E19
+http://oruk.online/series/039345276/199281357/312390c9-bbe0-4ae2-b94a-365c03b2da52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E20" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E20
+http://oruk.online/series/039345276/199281357/332fd35e-e79b-4a05-85d0-75b09f6ab2de.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E21" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E21
+http://oruk.online/series/039345276/199281357/0be48ee5-cb96-48b3-b5ee-89b77ee309fe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E22" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E22
+http://oruk.online/series/039345276/199281357/c4df1551-443c-43d6-b3fe-1d80ef88a22a.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E23" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E23
+http://oruk.online/series/039345276/199281357/39bee35b-bbc5-421e-8c49-1e00feef0336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E24" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E24
+http://oruk.online/series/039345276/199281357/1057a8c7-d7b5-4419-9938-b029791d453e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E25" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E25
+http://oruk.online/series/039345276/199281357/9efa4ead-c534-462d-b6fd-514d2ebd1458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ GloboNews: 25 Anos Em 25 Entrevistas S1 E26" tvg-logo="" group-title="SÉRIES",+ GloboNews: 25 Anos Em 25 Entrevistas S1 E26
+http://oruk.online/series/039345276/199281357/f8fc9524-c9fa-46ea-868e-4f75d62b9a84.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Os Flintstones S3 E20" tvg-logo="https://image.tmdb.org/t/p/w400/kUUfCTptWJKqpgmC5bVhMJ3WNAJ.jpg" group-title="SÉRIES",+ Os Flintstones S3 E20
+http://oruk.online/series/039345276/199281357/cfaef5ce-61b1-4db8-a269-3e5a0e23fc00.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Oswaldo S3 E12" tvg-logo="https://image.tmdb.org/t/p/w400/alhwpboVZyTezFwMUfcwQGbSiwX.jpg" group-title="SÉRIES",+ Oswaldo S3 E12
+http://oruk.online/series/039345276/199281357/24c0240e-2c95-4d70-a2e4-f1bbc1775d8b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Miraculous: As Aventuras de Ladybug S4 E18" tvg-logo="https://image.tmdb.org/t/p/w400/aT3MIF4FA0c33QCelcufCdKBM6n.jpg" group-title="SÉRIES",+ Miraculous: As Aventuras de Ladybug S4 E18
+http://oruk.online/series/039345276/199281357/3a396c52-fd73-49d3-a9c5-f8ac6d2174bf.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ The Jellies S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/iZqzRzZR32zLcJ47JGr0ufCoiP3.jpg" group-title="SÉRIES",+ The Jellies S1 E3
+http://oruk.online/series/039345276/199281357/e03a08cf-32f1-46fa-a623-7be0110c9d61.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ NCIS: Los Angeles S7 E18" tvg-logo="https://image.tmdb.org/t/p/w400/sYAuFCq8i0FfeHLfezhk5gpvciy.jpg" group-title="SÉRIES",+ NCIS: Los Angeles S7 E18
+http://oruk.online/series/039345276/199281357/3cfb2aa3-281e-498c-8fa0-f203d77c828c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ O Novo Pica-Pau S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/513orWy4226FRFYChu03zUfC7vc.jpg" group-title="SÉRIES",+ O Novo Pica-Pau S1 E10
+http://oruk.online/series/039345276/199281357/7f73f120-36ac-454c-9a98-ba4f23e40abe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+ Quantum Leap: Contratempos S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/yUzvs88pmkXDDUfCA3xQyD5Lji1.jpg" group-title="SÉRIES",+ Quantum Leap: Contratempos S2 E2
+http://oruk.online/series/039345276/199281357/191d8968-3ccc-443e-8aa4-1a97de14526b.mp4
